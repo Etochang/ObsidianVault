@@ -1,0 +1,7 @@
+.is-live-preview .admonition-content > * br {
+    display: inline;
+}
+
+.is-live-preview .admonition-content > * {
+    margin: revert;
+}

@@ -1,0 +1,55 @@
+/* gradient headings */
+
+h1, h1 .internal-link, h1 .internal-link.is-unresolved {
+  background: radial-gradient(circle, rgba(255, 200, 202, 1) 0%, rgba(198, 255, 221, 1) 53%, rgba(173, 216, 230, 1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+  
+h2, h2 .internal-link, h2 .internal-link.is-unresolved {
+  color: #7cd3b0; 
+  background-image: -webkit-linear-gradient(45deg, #7cd3b0 50%, #f500fd 14%, #ff8c8c 61%); 
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
+}
+
+h3 , h3 .internal-link, h3 .internal-link.is-unresolved {          
+  color: #6d2fd3; 
+  background-image: -webkit-linear-gradient(45deg, #6d2fd3 14%, #4ce8e0 69%); 
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;     
+} 
+
+h4 , h4 .internal-link, h4 .internal-link.is-unresolved {          
+  color: #FFFFFF; 
+  background-image: -webkit-linear-gradient(0deg, #ddd6e9 11%, #b1f1a3 21%, #53c521 98%);
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;     
+} 
+
+h5 , h5 .internal-link, h5 .internal-link.is-unresolved {          
+  color: #FFFFFF; 
+  background-image: -webkit-linear-gradient(0deg, #57bddd 12%, #ee7bb8 30%, #21e7dc 42%);
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;     
+} 
+
+.internal-link {
+  color: #4A90E2;
+  background-image: -webkit-linear-gradient(45deg, #fd7db2 54%, #40E0D0 69%); 
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;   
+}
+
+.internal-link:hover, .internal-link.is-unresolved:hover {
+  color: #FFFFFF;
+  background-image: -webkit-linear-gradient(45deg, #FFFFFF 34%, #40E0D0 52%); 
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
+}
