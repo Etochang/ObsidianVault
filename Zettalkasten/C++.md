@@ -28,7 +28,9 @@ Tags: [[computer science]] [[programming language]]
 ### 3. [[C++ Variables]]
 ### 4. [[C++ User Input]]
 ### 5. [[C++ Data Types]]
-### 6. 
+### 6.  [[C++ Operators]]
+### 7. 
+
 ---
 # *References*
 

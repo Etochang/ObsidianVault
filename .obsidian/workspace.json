@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/ISA.md",
-                "mode": "source",
+                "file": "Zettalkasten/C++ Operators.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -67,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/ISA.md",
+                "file": "Zettalkasten/C++ Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/ISA.md",
+                "file": "Zettalkasten/C++ Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/ISA.md"
+                "file": "Zettalkasten/C++ Operators.md"
               }
             }
           }
@@ -150,17 +152,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8df5bb988904b730",
+  "active": "6f7039195f6db26f",
   "lastOpenFiles": [
+    "Zettalkasten/C++.md",
+    "Zettalkasten/C++ Operators.md",
+    "Zettalkasten/C++ Data Types.md",
+    "Zettalkasten/C++ Syntax.md",
+    "Zettalkasten/ISA.md",
     "README.md",
     "Zettalkasten/instruction set.md",
-    "Zettalkasten/C++ Data Types.md",
-    "Zettalkasten/C++.md",
     "Zettalkasten/C++ User Input.md",
     "Zettalkasten/C++ Variables.md",
     "Zettalkasten/keyword.md",
     "Zettalkasten/C++ Output.md",
-    "Zettalkasten/C++ Syntax.md",
     "Zettalkasten/object.md",
     "Zettalkasten/C++ Comments.md",
     "Zettalkasten/class.md",
@@ -176,8 +180,6 @@
     "Zettalkasten/What is Research.md",
     "Zettalkasten/Research as a form of conversation.md",
     "Zettalkasten/memory operand.md",
-    "Zettalkasten/C++ class.md",
-    "Zettalkasten/Store Word Instruction.md",
     "Files/Pasted image 20231022080026.png",
     "Files/Pasted image 20231021170118.png",
     "Files/Pasted image 20231021165911.png",

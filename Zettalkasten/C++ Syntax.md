@@ -19,7 +19,7 @@ int main() {
 ### Explanation
 
 **Line 1:**
-`#include <iostream>` is a [[header file library]] that lets us work with input and output objects, such as `cout` (in line 5). [[header file|Header files]] add functionality to C++ programs. 
+`#include <iostream>` is a [[header file]] [[library]] that lets us work with input and output objects, such as `cout` (in line 5). [[header file|Header files]] add functionality to C++ programs. 
 
 **Line 2:**
 `using namespace std` means that we can use names for [[C++ Objects|objects]] and [[C++ Variables|variables]] from the standard [[library]].

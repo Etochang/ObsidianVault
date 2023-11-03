@@ -81,7 +81,7 @@
       "key": "C"
     }
   ],
-  "obsidian-git:pull": [
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod",
@@ -90,7 +90,7 @@
       "key": "P"
     }
   ],
-  "obsidian-git:push2": [
+  "obsidian-git:pull": [
     {
       "modifiers": [
         "Alt",
