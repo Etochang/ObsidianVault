@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d9ac68272d8e2e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fff84270ad4c0cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6039af6f1bc488d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettalkasten/Sources of Magnetic Field.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7559acaa37621d75",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aedf96c12ed98f16",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "edaaff4aad1f2079",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9544b10c67eb93d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6966431a9fc53ace",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "49c8e1a24c9492e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba0b1a5a8701ee10",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Zettalkasten/Sources of Magnetic Field.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0fa5954191771053",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Zettalkasten/Sources of Magnetic Field.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a590ffcea8e87209",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Zettalkasten/Sources of Magnetic Field.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6039af6f1bc488d9",
+  "lastOpenFiles": [
+    "Zettalkasten/Electromagnetism.md",
+    "README.md",
+    "Templates/Core Zettal Template.md",
+    "Templates",
+    "Files/Pasted image 20231115013546.png",
+    "Files/Pasted image 20231114182214.png",
+    "Files/Pasted image 20231021165232.png",
+    "Files/Pasted image 20231115013551.png",
+    "Files/Pasted image 20231115013357.png",
+    "Files/Pasted image 20231114183736.png",
+    "Files/Pasted image 20231115014429.png",
+    "Files/Pasted image 20231021165357.png",
+    "Files/Pasted image 20231115013541.png",
+    "Files/Pasted image 20231021165911.png",
+    "Files",
+    "Zettalkasten/C++ Arrays.md",
+    "Zettalkasten/operand.md",
+    "Zettalkasten/Sources of Magnetic Field.md",
+    "Zettalkasten/immediate operand.md",
+    "Zettalkasten/C++ Variables.md",
+    "Zettalkasten/assembler.md",
+    "Zettalkasten/Store Word Instruction.md",
+    "Zettalkasten/C++ References.md",
+    "Zettalkasten/C++ User Input.md",
+    "Zettalkasten/instruction set.md",
+    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
+    "Zettalkasten/Writing is Thinking.md",
+    "Zettalkasten/Fully Connected (FC) Layer.md",
+    "Zettalkasten/memory alignment.md",
+    "Zettalkasten/Why Write a Formal Paper.md",
+    "Zettalkasten/ISA.md",
+    "Zettalkasten/C++ Data Types.md",
+    "Zettalkasten/computer architecture.md",
+    "Zettalkasten/What is Research.md",
+    "Zettalkasten/C++ Functions.md",
+    "Zettalkasten/object.md",
+    "Zettalkasten/OOP.md",
+    "Zettalkasten/microarchitecture.md",
+    "Zettalkasten"
+  ]
+}

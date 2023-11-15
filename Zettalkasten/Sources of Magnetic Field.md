@@ -17,6 +17,8 @@ Tags: [[physics]]
 ### g. [[Applications of Ampere's Law]]
 ### h. [[Magnetic Materials]]
 
+Testing the git functionality!
+
 
 
 
