@@ -14,7 +14,7 @@
 
 .markdown-preview-view img:hover {
   -webkit-transform:scale(1.8); /* experiment with values */
-  transform:scale(1.3);
+  transform:scale(1.1);
   transition: transform 0.15s cubic-bezier(0.68, -0.55, 0.27, 1.55), box-shadow 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
   z-index: 2;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);

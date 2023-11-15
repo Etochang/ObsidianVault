@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d55952ba404a687",
+        "id": "abd305a122fae7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7039195f6db26f",
+            "id": "70054488e0d9033e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/C++ Operators.md",
-                "mode": "preview",
+                "file": "Zettalkasten/Sources of Magnetic Field.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#defintion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/C++ Operators.md",
+                "file": "Zettalkasten/Sources of Magnetic Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/C++ Operators.md",
+                "file": "Zettalkasten/Sources of Magnetic Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/C++ Operators.md"
+                "file": "Zettalkasten/Sources of Magnetic Field.md"
               }
             }
           }
@@ -152,44 +152,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f7039195f6db26f",
+  "active": "70054488e0d9033e",
   "lastOpenFiles": [
+    "Zettalkasten/Electromagnetism.md",
+    "Zettalkasten/Sources of Magnetic Field.md",
+    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
+    "Zettalkasten/Direct-Current Circuits.md",
+    "Files/Pasted image 20231115023222.png",
+    "Files/Pasted image 20231115022857.png",
+    "Files/Pasted image 20231115022150.png",
+    "Files/Pasted image 20231115021837.png",
+    "Files/Pasted image 20231115021828.png",
+    "Files/Pasted image 20231115021604.png",
+    "Files/Pasted image 20231115020256.png",
+    "Files/Pasted image 20231115015303.png",
+    "Zettalkasten/Alternating Current.md",
+    "Files/Pasted image 20231115014429.png",
+    "Zettalkasten/Resistance and Reactance.md",
+    "Files/Pasted image 20231115013551.png",
+    "Zettalkasten/Dirrect-Current Circuits.md",
+    "Zettalkasten/keyword.md",
+    "Zettalkasten/object.md",
+    "Zettalkasten/C++ Files.md",
+    "Zettalkasten/C++ Exceptions.md",
     "Zettalkasten/C++.md",
+    "Zettalkasten/ISA.md",
+    "Zettalkasten/class.md",
+    "Zettalkasten/C++ Functions.md",
+    "Zettalkasten/C++ Pointers.md",
+    "Zettalkasten/C++ References.md",
+    "Zettalkasten/C++ Structures.md",
+    "Zettalkasten/C++ Arrays.md",
+    "Zettalkasten/C++ Loops.md",
+    "Zettalkasten/C++ Conditions.md",
+    "Zettalkasten/C++ Booleans.md",
+    "Zettalkasten/C++ Math.md",
+    "Zettalkasten/C++ Strings.md",
     "Zettalkasten/C++ Operators.md",
     "Zettalkasten/C++ Data Types.md",
-    "Zettalkasten/C++ Syntax.md",
-    "Zettalkasten/ISA.md",
-    "README.md",
-    "Zettalkasten/instruction set.md",
-    "Zettalkasten/C++ User Input.md",
-    "Zettalkasten/C++ Variables.md",
-    "Zettalkasten/keyword.md",
-    "Zettalkasten/C++ Output.md",
-    "Zettalkasten/object.md",
-    "Zettalkasten/C++ Comments.md",
-    "Zettalkasten/class.md",
-    "Zettalkasten/OOP.md",
-    "Zettalkasten/assembly language program.md",
-    "Zettalkasten/assembly language.md",
-    "Zettalkasten/Imagining Your Reader's Role.md",
-    "Zettalkasten/Understanding Your Role as a Researcher.md",
-    "Zettalkasten/Writing as an Imagined Conversation.md",
-    "Zettalkasten/Writing is Thinking.md",
-    "Zettalkasten/Why Write a Formal Paper.md",
-    "Zettalkasten/Why Write Research.md",
-    "Zettalkasten/What is Research.md",
-    "Zettalkasten/Research as a form of conversation.md",
-    "Zettalkasten/memory operand.md",
-    "Files/Pasted image 20231022080026.png",
-    "Files/Pasted image 20231021170118.png",
-    "Files/Pasted image 20231021165911.png",
-    "Files/Pasted image 20231021165549.png",
-    "Files/Pasted image 20231021165357.png",
-    "Files/Pasted image 20231021165232.png",
-    "Files/Pasted image 20231021161225.png",
-    "Files/Pasted image 20231021161103.png",
-    "Files/Pasted image 20231021155237.png",
-    "Files/Pasted image 20231021152814.jpg",
     "Zettalkasten",
     "References",
     "Templates",

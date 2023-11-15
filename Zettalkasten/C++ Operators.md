@@ -82,16 +82,20 @@ Bitwise operators are used to perform operations on individual bits. They can on
 
 ## Others:
 
-| Operator | Description                                            | Example                                               |
-| -------- | ------------------------------------------------------ | ----------------------------------------------------- |
-| sizeof   | returns the size of data type                          | `sizeof(int); // 4`                                   |
-| ?:       | returns value based on the condition                   | `string result = (5 > 0) ? "even" : "odd"; // "even"` |
-| &        | represents memory address of the operand               | `&num // address of num`                              |
-| .        | accesses members of structs or class objects           | `s1.marks = 92;`                                      |
-| ->       | used with pointers to access class or struct variables | `ptr->marks = 92;`                                    |
-| <<       | prints the output value                                | `cout << 5`                                           |
-| >>       | gets the input value                                   | `cin >> num`                                                      |
+| Operator | Description                                                                                                                           | Example                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| sizeof   | returns the size of data type                                                                                                         | `sizeof(int); // 4`                                   |
+| ?:       | returns value based on the condition                                                                                                  | `string result = (5 > 0) ? "even" : "odd"; // "even"` |
+| &        | represents memory address of the operand                                                                                              | `&num // address of num`                              |
+| .        | accesses members of structs or class objects                                                                                          | `s1.marks = 92;`                                      |
+| ->       | used with pointers to access class or struct variables                                                                                | `ptr->marks = 92;`                                    |
+| <<       | prints the output value                                                                                                               | `cout << 5`                                           |
+| >>       | gets the input value                                                                                                                  | `cin >> num`                                          |
+| ::       | accesses static members of a class, members in namespaces, resolves ambiguities in cases of unction overloading or variable shadowing | `int MyClass::myStaticVariable = 10;`                                                      |
 
+# [[C++ Strings]]
 
 ---
 # *References*
+
+[C++ Operators (w3schools.com)](https://www.w3schools.com/cpp/cpp_operators.asp)

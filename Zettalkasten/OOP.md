@@ -17,7 +17,5 @@ stands for Object-Oriented Programming, which is about objects that contain both
 ### [[class|Classes]] and [[object|Objects]]
 - Basically, a [[class]] is a template for [[object|objects]], while an [[object]] is an instance of a [[class]]. 
 
-
-
 ---
 # *References*

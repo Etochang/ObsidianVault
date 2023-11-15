@@ -4,6 +4,8 @@ Tags: [[computer organization]]
 
 # ISA
 
+![[Pasted image 20231108172147.jpg]]
+
 Stands for **instruction set architecture**, and is used interchangeably with [[instruction set]]. The ISA defines the instructions that a processor can execute, but doesn't actually provide a hardware implementation - that is accomplished by the [[microarchitecture]]. 
 
 ## Key Concepts

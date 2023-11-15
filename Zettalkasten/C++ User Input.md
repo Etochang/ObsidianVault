@@ -27,3 +27,5 @@ title: Good To Know
 
 ---
 # *References*
+
+[C++ User Input (w3schools.com)](https://www.w3schools.com/cpp/cpp_user_input.asp)

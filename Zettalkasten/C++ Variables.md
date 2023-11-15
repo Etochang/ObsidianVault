@@ -96,3 +96,5 @@ const float PI = 3.14;
 
 ---
 # *References*
+
+[C++ Variables (w3schools.com)](https://www.w3schools.com/cpp/cpp_variables.asp)

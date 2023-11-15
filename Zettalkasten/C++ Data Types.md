@@ -69,3 +69,5 @@ To use strings, you must include an additional [[header file]] in the source cod
 
 ---
 # *References*
+
+[C++ Data Types (w3schools.com)](https://www.w3schools.com/cpp/cpp_data_types.asp)

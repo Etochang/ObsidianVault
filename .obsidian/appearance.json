@@ -6,17 +6,18 @@
     "Clean Embeds",
     "Canvas Cards with Images",
     "Colored Tags",
-    "Enlarge Image on Hover",
     "Popover Preview Large",
     "Quote Callout",
     "Tasks Redesign",
     "Blockquotes Hover Effect",
     "gradient headings",
-    "fixnewline admonition"
+    "fixnewline admonition",
+    "Enlarge Image on Hover"
   ],
   "translucency": true,
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "showViewHeader": false,
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Ebrima"
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "SF Pro",
+  "monospaceFontFamily": "SF Mono"
 }

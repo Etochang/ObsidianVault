@@ -65,3 +65,5 @@ The newline character `\n` is an [[escape sequence]] that forces the curson to c
 # [[C++ Variables]]
 ---
 # *References*
+
+[C++ Output (Print Text) (w3schools.com)](https://www.w3schools.com/cpp/cpp_output.asp)
