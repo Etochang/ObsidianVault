@@ -1,5 +1,5 @@
 202310220828
-Meta Tags: #idea 
+Meta Tags: #definition
 Tags: [[computer organization]]
 
 # ISA

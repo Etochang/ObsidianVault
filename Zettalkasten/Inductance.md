@@ -53,9 +53,23 @@ $$\omega = \sqrt{\frac{1}{LC}}$$
 
 ### f. [[The L-R-C Series Circuit]]
 
+A circuit that contains inductance, resistance, and capacitance undergoes damped oscillations for sufficiently small resistance. The frequency $\omega'$ of damped oscillations depends on the values of $L$, $R$, and $C$ . As $R$ increases, the damping increases; if $R$ is greater than a certain value, the behavior becomes overdamped and no longer oscillates.
+$$\omega ' = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}$$
+$$\mathcal{E} - \frac{q}{C} - iR - L\frac{di}{dt} = 0 \ \textrm{(differential equation)}$$
+#### Proof for Oscillation Frequency:
+$\frac{q}{C} + iR + L\frac{di}{dt} = \mathcal{E}$
+$\frac{1}{C}q + Rq' + Lq'' = \mathcal{E}$
+$Lq'' + Rq' + \frac{1}{C}q= \mathcal{E}$
+$q'' + \frac{R}{L}q' + \frac{1}{LC}q= \frac{\mathcal{E}}{L}$
+Characteristic Equation:
+$r^2 + \frac{R}{L}r + \frac{1}{LC} = 0$
+$r = \frac{-\frac{R}{L} \pm \sqrt{\frac{R^2}{L^2}-\frac{4}{LC}}}{2} = -\frac{R}{2L} \pm \sqrt{\frac{R^2}{4L^2}-\frac{1}{LC}} = -\frac{R}{2L} \pm \sqrt{\frac{1}{LC}-\frac{R^2}{4L^2}} i$ 
+Because of complex roots rules for 2nd order odes, $\omega ' = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}$ 
 
 
 
 
 ---
 # *References*
+
+Pearson PHY 131 at ASU

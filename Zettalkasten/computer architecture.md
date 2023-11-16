@@ -1,5 +1,5 @@
 202310220824
-Meta Tags: #idea 
+Meta Tags: #definition 
 Tags:
 
 # computer architecture

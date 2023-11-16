@@ -1,5 +1,5 @@
 202310220805
-Meta Tags: #idea 
+Meta Tags: #definition
 Tags:
 
 # instruction set

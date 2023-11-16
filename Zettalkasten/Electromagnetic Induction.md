@@ -43,7 +43,7 @@ $$\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi_B}{dt}$$
 ### f. [[Eddy Currents]]
 
 
-### g. [[Displacement current and Maxwell's Equations]]
+### g. [[Displacement Current and Maxwell's Equations]]
 
 A time-varying electric field generates displacement current $i_D$ , which acts as a source of magnetic field in exactly the same way as conduction current. 
 $$i_D = \epsilon \frac{d\Phi_E}{dt}$$

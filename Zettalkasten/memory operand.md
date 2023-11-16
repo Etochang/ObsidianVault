@@ -1,5 +1,5 @@
 202310211615
-Meta Tags: #idea 
+Meta Tags: #definition 
 Tags:
 
 # memory operand

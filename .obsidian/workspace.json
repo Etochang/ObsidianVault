@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abd305a122fae7c9",
+        "id": "780ea0f4d9946ced",
         "type": "tabs",
         "children": [
           {
-            "id": "70054488e0d9033e",
+            "id": "bf70c40c6db45507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Inductance.md",
+                "file": "Zettalkasten/Electromagnetic Induction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#defintion",
+                "query": "tag:#MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Inductance.md",
+                "file": "Zettalkasten/Electromagnetic Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Inductance.md",
+                "file": "Zettalkasten/Electromagnetic Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Inductance.md"
+                "file": "Zettalkasten/Electromagnetic Induction.md"
               }
             }
           }
@@ -152,44 +152,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70054488e0d9033e",
+  "active": "bf70c40c6db45507",
   "lastOpenFiles": [
+    "Zettalkasten/Electromagnetism.md",
+    "Zettalkasten/Sources of Magnetic Field.md",
+    "Zettalkasten/assembler.md",
+    "Zettalkasten/computer science.md",
+    "Zettalkasten/C++.md",
+    "Zettalkasten/the relationship between ISA and microarchitecture.md",
+    "Zettalkasten/memory operand.md",
+    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
+    "Zettalkasten/ISA.md",
+    "Zettalkasten/instruction set.md",
+    "Zettalkasten/computer architecture.md",
+    "Zettalkasten/Alternating Current.md",
+    "Files/Pasted image 20231116003114.png",
+    "Files/Pasted image 20231116002912.png",
+    "Files/Pasted image 20231116002707.png",
+    "Files/Pasted image 20231116002349.png",
+    "Files/Pasted image 20231116002031.png",
+    "Files/Pasted image 20231116001603.png",
+    "Zettalkasten/Inductance.md",
+    "Zettalkasten/Electromagnetic Induction.md",
     "Files/Pasted image 20231115183334.png",
     "Files/Pasted image 20231115183325.png",
     "Files/Pasted image 20231115180848.png",
     "Files/Pasted image 20231115180547.png",
-    "Files/Pasted image 20231115175948.png",
-    "Files/Pasted image 20231115173725.png",
-    "Zettalkasten/Electromagnetism.md",
-    "Zettalkasten/Alternating Current.md",
-    "Zettalkasten/Inductance.md",
-    "Zettalkasten/Electromagnetic Induction.md",
-    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
     "Zettalkasten/Direct-Current Circuits.md",
-    "Zettalkasten/Sources of Magnetic Field.md",
-    "Files/Pasted image 20231115171035.png",
-    "Files/Pasted image 20231115170402.png",
-    "Files/Pasted image 20231115165936.png",
-    "Files/Pasted image 20231115164357.png",
-    "Files/Pasted image 20231115135505.png",
     "Zettalkasten/Resistance and Reactance.md",
     "Zettalkasten/Dirrect-Current Circuits.md",
     "Zettalkasten/keyword.md",
     "Zettalkasten/object.md",
     "Zettalkasten/C++ Files.md",
     "Zettalkasten/C++ Exceptions.md",
-    "Zettalkasten/C++.md",
-    "Zettalkasten/ISA.md",
     "Zettalkasten/class.md",
     "Zettalkasten/C++ Functions.md",
     "Zettalkasten/C++ Pointers.md",
     "Zettalkasten/C++ References.md",
     "Zettalkasten/C++ Structures.md",
-    "Zettalkasten/C++ Arrays.md",
-    "Zettalkasten/C++ Loops.md",
-    "Zettalkasten/C++ Conditions.md",
-    "Zettalkasten/C++ Booleans.md",
-    "Zettalkasten/C++ Math.md",
     "Zettalkasten",
     "References",
     "Templates",
