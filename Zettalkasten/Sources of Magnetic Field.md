@@ -1,5 +1,5 @@
 202311150259
-Meta Tags: #MOC
+Meta Tags: #MOC #textbook 
 Tags: [[physics]]
 
 # Sources of Magnetic Field
@@ -59,7 +59,7 @@ $$\oint \vec{B} \cdot d\vec{l} = \mu_0 I_{encl}$$
 
 When magnetic materials are present, the magnetization of the material causes an additional contribution to $\vec{B}$ . 
 
-For paramagnetic and diamagnetic materials, $\mu_0$ is replaced in magnetic-field expressions by $\mu = K_m \mu_0$ , where $\mu$ is the permeability of the material and $K_m$ is its relative permeability. The magnetic susceptibility $\chi_m$ is defined as $\chi_m = K_m - 1$ . Magnetic susceptibilities for paramegnetic materials are small positive quantities; those for diamagnetic materials are small negative quantities. For ferromagnetic materials, $K_m$ is much larger than unity and is not constant. Some ferromagnetic materials are permanent magnets, retaining their magnetization even after the external magnetic field is removed. 
+For paramagnetic and diamagnetic materials, $\mu_0$ is replaced in magnetic-field expressions by $\mu = K_m \mu_0$ , where $\mu$ is the **permeability** of the material and $K_m$ is its **relative permeability**. The magnetic susceptibility $\chi_m$ is defined as $\chi_m = K_m - 1$ . Magnetic susceptibilities for paramagnetic materials are small positive quantities; those for diamagnetic materials are small negative quantities. For ferromagnetic materials, $K_m$ is much larger than unity (1) and is not constant. Some ferromagnetic materials are permanent magnets, retaining their magnetization even after the external magnetic field is removed. 
 
 - Paramagnetic: magnetic field is greater than before, $K_m$ is greater than unity by a small amount
 - Diamagnetic: magnetic field is less than before, $K_m$ is less than unity by a small amount.
@@ -72,3 +72,5 @@ For paramagnetic and diamagnetic materials, $\mu_0$ is replaced in magnetic-fiel
 
 ---
 # *References*
+
+Pearson PHY 131 at ASU

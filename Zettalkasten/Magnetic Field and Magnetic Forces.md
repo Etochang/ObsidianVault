@@ -1,6 +1,6 @@
 202311150145
-Meta Tags: #idea 
-Tags:
+Meta Tags: #idea #textbook 
+Tags: [[physics]]
 
 # Magnetic Field and Magnetic Forces
 

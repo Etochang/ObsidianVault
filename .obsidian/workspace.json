@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Sources of Magnetic Field.md",
+                "file": "Zettalkasten/Inductance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Sources of Magnetic Field.md",
+                "file": "Zettalkasten/Inductance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Sources of Magnetic Field.md",
+                "file": "Zettalkasten/Inductance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Sources of Magnetic Field.md"
+                "file": "Zettalkasten/Inductance.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,22 +154,25 @@
   },
   "active": "70054488e0d9033e",
   "lastOpenFiles": [
+    "Files/Pasted image 20231115183334.png",
+    "Files/Pasted image 20231115183325.png",
+    "Files/Pasted image 20231115180848.png",
+    "Files/Pasted image 20231115180547.png",
+    "Files/Pasted image 20231115175948.png",
+    "Files/Pasted image 20231115173725.png",
     "Zettalkasten/Electromagnetism.md",
-    "Zettalkasten/Sources of Magnetic Field.md",
+    "Zettalkasten/Alternating Current.md",
+    "Zettalkasten/Inductance.md",
+    "Zettalkasten/Electromagnetic Induction.md",
     "Zettalkasten/Magnetic Field and Magnetic Forces.md",
     "Zettalkasten/Direct-Current Circuits.md",
-    "Files/Pasted image 20231115023222.png",
-    "Files/Pasted image 20231115022857.png",
-    "Files/Pasted image 20231115022150.png",
-    "Files/Pasted image 20231115021837.png",
-    "Files/Pasted image 20231115021828.png",
-    "Files/Pasted image 20231115021604.png",
-    "Files/Pasted image 20231115020256.png",
-    "Files/Pasted image 20231115015303.png",
-    "Zettalkasten/Alternating Current.md",
-    "Files/Pasted image 20231115014429.png",
+    "Zettalkasten/Sources of Magnetic Field.md",
+    "Files/Pasted image 20231115171035.png",
+    "Files/Pasted image 20231115170402.png",
+    "Files/Pasted image 20231115165936.png",
+    "Files/Pasted image 20231115164357.png",
+    "Files/Pasted image 20231115135505.png",
     "Zettalkasten/Resistance and Reactance.md",
-    "Files/Pasted image 20231115013551.png",
     "Zettalkasten/Dirrect-Current Circuits.md",
     "Zettalkasten/keyword.md",
     "Zettalkasten/object.md",
@@ -187,9 +190,6 @@
     "Zettalkasten/C++ Conditions.md",
     "Zettalkasten/C++ Booleans.md",
     "Zettalkasten/C++ Math.md",
-    "Zettalkasten/C++ Strings.md",
-    "Zettalkasten/C++ Operators.md",
-    "Zettalkasten/C++ Data Types.md",
     "Zettalkasten",
     "References",
     "Templates",
