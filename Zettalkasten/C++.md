@@ -11,6 +11,8 @@ Tags: [[computer science]] [[programming language]]
 - a cross-platform language that can be used to create high-performance applications.
 - developed by Bjarne Stroustrup as an extension to the [[C]] language. 
 - gives programmers a high level of control over system resources and memory.
+- [[imperative]] [[OOP|object-oriented language]]
+- has a [[typing system#Static Typing|static type system]] and is considered more [[typing system#Strong Typing|strongly typed]] than [[C]].
 
 ## Why use it?
 
@@ -51,8 +53,19 @@ Tags: [[computer science]] [[programming language]]
 ### 24. [[C++ Files]]
 ### 25. [[C++ Exceptions]]
 
+# TOC - geeksforgeeks
+
+### [[C++ Templates]]
+
+# TOC - cppreference
+### [[C++ Destructors]]
+
+# TOC - Misc
+### [[When can C++ code compile but result in a runtime error❔]]
+### [[Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++]] 
 
 ---
 # *References*
 
 [C++ Introduction (w3schools.com)](https://www.w3schools.com/cpp/cpp_intro.asp)
+[Templates in C++ with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/templates-cpp/#)

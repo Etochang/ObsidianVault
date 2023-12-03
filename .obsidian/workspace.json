@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "780ea0f4d9946ced",
+        "id": "2b8a349d19cf604b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf70c40c6db45507",
+            "id": "6860b10cd828e5f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Electromagnetic Induction.md",
-                "mode": "source",
+                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Electromagnetic Induction.md",
+                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Electromagnetic Induction.md",
+                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Electromagnetic Induction.md"
+                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md"
               }
             }
           }
@@ -152,44 +152,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf70c40c6db45507",
+  "active": "6860b10cd828e5f3",
   "lastOpenFiles": [
-    "Zettalkasten/Electromagnetism.md",
-    "Zettalkasten/Sources of Magnetic Field.md",
-    "Zettalkasten/assembler.md",
-    "Zettalkasten/computer science.md",
     "Zettalkasten/C++.md",
-    "Zettalkasten/the relationship between ISA and microarchitecture.md",
-    "Zettalkasten/memory operand.md",
-    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
-    "Zettalkasten/ISA.md",
-    "Zettalkasten/instruction set.md",
-    "Zettalkasten/computer architecture.md",
-    "Zettalkasten/Alternating Current.md",
+    "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+    "Zettalkasten/Automatic (Local).md",
+    "Zettalkasten/C++ Destructors.md",
+    "Zettalkasten/expression.md",
+    "Zettalkasten/class.md",
+    "Zettalkasten/object.md",
+    "Zettalkasten/When can C++ code compile but result in a runtime error❔.md",
+    "Zettalkasten/function.md",
+    "Zettalkasten/method.md",
+    "Zettalkasten/C++ Variables.md",
+    "Zettalkasten/typing system.md",
+    "Zettalkasten/machine code.md",
+    "Zettalkasten/variable.md",
+    "Zettalkasten/data type.md",
+    "Zettalkasten/operation.md",
+    "Zettalkasten/operator.md",
+    "Zettalkasten/operand.md",
+    "Files/Pasted image 20231202180742.jpg",
+    "Files/Pasted image 20231202180122.jpg",
+    "Files/Pasted image 20231202175615.jpg",
+    "Files/Pasted image 20231202175148.jpg",
+    "Files/Pasted image 20231202175139.jpg",
+    "Zettalkasten/typing systems.md",
+    "Zettalkasten/C++ Templates.md",
+    "Zettalkasten/compile time.md",
+    "Zettalkasten/OOP.md",
+    "Zettalkasten/C++ Template Specialization.md",
+    "Files/Pasted image 20231119151655.jpg",
+    "Zettalkasten/C++ Exceptions.md",
+    "Zettalkasten/Electromagnetic Induction.md",
+    "Zettalkasten/Electromagnetism.md",
     "Files/Pasted image 20231116003114.png",
     "Files/Pasted image 20231116002912.png",
     "Files/Pasted image 20231116002707.png",
     "Files/Pasted image 20231116002349.png",
-    "Files/Pasted image 20231116002031.png",
-    "Files/Pasted image 20231116001603.png",
-    "Zettalkasten/Inductance.md",
-    "Zettalkasten/Electromagnetic Induction.md",
-    "Files/Pasted image 20231115183334.png",
-    "Files/Pasted image 20231115183325.png",
-    "Files/Pasted image 20231115180848.png",
-    "Files/Pasted image 20231115180547.png",
-    "Zettalkasten/Direct-Current Circuits.md",
-    "Zettalkasten/Resistance and Reactance.md",
-    "Zettalkasten/Dirrect-Current Circuits.md",
-    "Zettalkasten/keyword.md",
-    "Zettalkasten/object.md",
-    "Zettalkasten/C++ Files.md",
-    "Zettalkasten/C++ Exceptions.md",
-    "Zettalkasten/class.md",
-    "Zettalkasten/C++ Functions.md",
-    "Zettalkasten/C++ Pointers.md",
-    "Zettalkasten/C++ References.md",
-    "Zettalkasten/C++ Structures.md",
     "Zettalkasten",
     "References",
     "Templates",

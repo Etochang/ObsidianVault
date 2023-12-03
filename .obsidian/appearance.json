@@ -12,7 +12,8 @@
     "Blockquotes Hover Effect",
     "gradient headings",
     "fixnewline admonition",
-    "Enlarge Image on Hover"
+    "Enlarge Image on Hover",
+    "Centered H1"
   ],
   "translucency": true,
   "baseFontSize": 22,

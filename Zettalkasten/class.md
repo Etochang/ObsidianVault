@@ -30,9 +30,13 @@ title: Example Explained
 
 ```
 
+### Class Variables
+
+AKA member variables, referring to variables that are declared within a class. Usually put into `private` for encapsulation purposes. Static member variables are shared across all instances, while regular ones are unique per instance.
+
 ### Class Methods
 
-Methods are [[C++ Functions|functions]] that belong to the class.
+Methods are [[C++ Functions|functions]] that belong to the class. AKA member functions, and are usually present in the `public` section of a class due to being the interface.
 
 There are two ways to define functions that belong to a class:
 - Inside class definition
@@ -43,7 +47,7 @@ Inside class definition example:
 ```
 class MyClass {        // The class  
   public:              // Access specifier  
-    void myMethod() {  // Method/function defined inside the class  
+    void myMethod() {  // Method/function defined inside
       cout << "Hello World!";  
     }  
 };  
@@ -96,7 +100,52 @@ The constructor has the same name as the class, it is always `public`, and it d
 
 Constructors can also take parameters, which can be useful for setting initial values for attributes.
 
+```
+class MyClass {     // The class  
+  public:           // Access specifier  
+    MyClass(int num, string str) {     // Constructor  
+      cout << "Hello World!";  
+      age = num;
+      name = str;
+    }  
+  private:
+    int age;
+    string name;
+};
+```
+
 They can also be defined out of the class, just like regular [[C++ Functions|functions]].
+
+```
+class MyClass {     // The class  
+  public:           // Access specifier  
+    MyClass();      // declared constructor
+};
+
+MyClass::MyClass() {
+	cout << "Hello World!";
+}
+```
+
+```ad-info
+Constructors in C++ do not have a return type, even `void`.
+
+```
+
+There is also a shorthand for writing constructors:
+
+```
+class MyClass {     // The class  
+  public:           // Access specifier  
+    MyClass(int num, string str) : age(num), name(str)
+    {  
+      cout << "Hello World!";  
+    }  
+  private:
+    int age;
+    string name;
+};
+```
 
 ### Access Specifiers
 
@@ -110,8 +159,8 @@ class MyClass {  // The class
 In this example, `public` is an **access specifier**. They define how the members (attributes and methods) of a class can be accessed. 
 
 In C++, there are three access specifier:
-- `public` - members are accessible from outside the class
-- `private` - members cannot be accessed (or viewed) from outside the class
+- `public` - members are accessible from outside the class; identifies the interface portion of the class.
+- `private` - members cannot be accessed (or viewed) from outside the class; identifies the implementation portion of the class.
 - `protected` - members cannot be accessed from outside the class, however, they can be accessed in inherited classes. 
 
 ```ad-note

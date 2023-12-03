@@ -1,11 +1,11 @@
 202310211533
-Meta Tags: #definition 
-Tags: [[assembly language]]
+Meta Tags: #definition #MOC
+Tags: [[assembly language]] [[programming language]] [[computer science]]
 
 # operand
 
-The data on which [[instruction|instructions]] operate. Similar to [[parameter|parameters]] in [[function|functions]].
-## Types of Operands
+The data on which [[instruction|instructions]] operate, or the data that is being operated on by [[operator|operators]]. Similar to [[parameter|parameters]] in [[function|functions]].
+## Assembly Operand Types
 
 ### 1. [[register operand|Register Operand]]
 ### 2. [[memory operand|Memory Operand]]
