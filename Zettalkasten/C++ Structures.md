@@ -47,7 +47,7 @@ struct {
 By giving a name to a structure, you can treat it as a data type, meaning you can create variables with said structure anywhere in the program at any time.
 
 ```
-struct myDataType { // this structure is name "myDataType"
+struct myDataType { // this struct is named "myDataType"
 	int myNum;
 	string myString;
 }

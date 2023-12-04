@@ -28,7 +28,7 @@ To write to the file, use the `<<` operator.
 using namespace std;  
   
 int main() {  
-  // Create and open a text file  
+  // Create & open a text file w/ direct initialization 
   ofstream MyFile("filename.txt");  
   
   // Write to the file  
@@ -37,6 +37,29 @@ int main() {
   // Close the file  
   MyFile.close();  
 }
+```
+
+### Common Methods for ofstream
+
+1. `.open()`:
+	Opens a file. you can specify the file name and mode.
+```
+	ofstream myfile;
+	myfile.open("filename.txt");
+```
+
+2. `.is_open()`:
+	Checks if the file is open.
+```	
+if (myfile.is_open()) {
+    // File is open
+}	
+```
+
+3. `.close()`:
+	Closes the file.
+```	
+myfile.close();
 ```
 
 ```ad-question
@@ -67,6 +90,45 @@ while (getline (MyReadFile, myText)) {
 // Close the file  
 MyReadFile.close();
 ```
+
+### Common Methods for ifstream
+
+1. `.open()`:
+	Opens a file. you can specify the file name and mode.
+```
+	ifstream myfile;
+	myfile.open("filename.txt");
+```
+
+2. `.is_open()`:
+	Checks if the file is open.
+```	
+if (myfile.is_open()) {
+    // File is open
+}	
+```
+
+3. `.close()`:
+	Closes the file.
+```	
+myfile.close();
+```
+
+4. `getline(ifstream myfile, typename variable)`:
+	Reads a line from the file.
+```	
+string line;
+getline(myfile, line);
+```
+
+5. `.eof()`:
+	Checks if the end-of-file (EOF) has been reached.
+```	
+while (!myfile.eof()) {
+    // Read data from the file
+}
+```
+
 
 # [[C++ Exceptions]]
 

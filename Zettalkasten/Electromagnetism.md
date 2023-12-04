@@ -2,7 +2,7 @@
 Meta Tags: #MOC #textbook
 Tags: [[physics]]
 
-# Part IV: Electromagnetism (Pearson)
+# Electromagnetism
 
 ## PHY 131
 

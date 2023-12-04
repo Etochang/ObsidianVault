@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8a349d19cf604b",
+        "id": "bb78d6ddb7a80258",
         "type": "tabs",
         "children": [
           {
-            "id": "6860b10cd828e5f3",
+            "id": "95332410a4022087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
-                "mode": "preview",
+                "file": "Zettalkasten/Electric Charge and Electric Field.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+                "file": "Zettalkasten/Electric Charge and Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+                "file": "Zettalkasten/Electric Charge and Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md"
+                "file": "Zettalkasten/Electric Charge and Electric Field.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,44 +152,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6860b10cd828e5f3",
+  "active": "95332410a4022087",
   "lastOpenFiles": [
-    "Zettalkasten/C++.md",
-    "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
-    "Zettalkasten/Automatic (Local).md",
-    "Zettalkasten/C++ Destructors.md",
-    "Zettalkasten/expression.md",
-    "Zettalkasten/class.md",
-    "Zettalkasten/object.md",
-    "Zettalkasten/When can C++ code compile but result in a runtime error❔.md",
-    "Zettalkasten/function.md",
-    "Zettalkasten/method.md",
-    "Zettalkasten/C++ Variables.md",
-    "Zettalkasten/typing system.md",
-    "Zettalkasten/machine code.md",
-    "Zettalkasten/variable.md",
-    "Zettalkasten/data type.md",
-    "Zettalkasten/operation.md",
-    "Zettalkasten/operator.md",
-    "Zettalkasten/operand.md",
-    "Files/Pasted image 20231202180742.jpg",
-    "Files/Pasted image 20231202180122.jpg",
-    "Files/Pasted image 20231202175615.jpg",
-    "Files/Pasted image 20231202175148.jpg",
-    "Files/Pasted image 20231202175139.jpg",
-    "Zettalkasten/typing systems.md",
-    "Zettalkasten/C++ Templates.md",
-    "Zettalkasten/compile time.md",
-    "Zettalkasten/OOP.md",
-    "Zettalkasten/C++ Template Specialization.md",
-    "Files/Pasted image 20231119151655.jpg",
-    "Zettalkasten/C++ Exceptions.md",
-    "Zettalkasten/Electromagnetic Induction.md",
+    "Files/Pasted image 20231204163329.png",
+    "Files/Pasted image 20231204162825.png",
     "Zettalkasten/Electromagnetism.md",
-    "Files/Pasted image 20231116003114.png",
-    "Files/Pasted image 20231116002912.png",
-    "Files/Pasted image 20231116002707.png",
-    "Files/Pasted image 20231116002349.png",
+    "Zettalkasten/Electric Charge and Electric Field.md",
+    "Zettalkasten/Electromagnetic Waves.md",
+    "Zettalkasten/Current, Resistance, and Electromotive Force.md",
+    "Zettalkasten/Capacitance and Dielectrics.md",
+    "Zettalkasten/Electric Potential.md",
+    "Zettalkasten/Gauss's Law.md",
+    "Zettalkasten/Direct-Current Circuits.md",
+    "Zettalkasten/Untitled.md",
+    "Zettalkasten/physics.md",
+    "Zettalkasten/Mechanics.md",
+    "Zettalkasten/Waves & Acoustics.md",
+    "Zettalkasten/Thermodynamics.md",
+    "Zettalkasten/Optics.md",
+    "Zettalkasten/Modern Physics.md",
+    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
+    "Zettalkasten/Motion of Charged Particles in a Magnetic Field.md",
+    "Waves/Acoustics.md",
+    "Waves",
+    "Zettalkasten/Python.md",
+    "Zettalkasten/C++ Files.md",
+    "Zettalkasten/C++.md",
+    "Zettalkasten/When can C++ code compile but result in a runtime error❔.md",
+    "Zettalkasten/Python Functions.md",
+    "Zettalkasten/Python Loops.md",
+    "Zettalkasten/Python If ... Else.md",
+    "Files/Pasted image 20231203013201.png",
+    "Files/15-dependency-example.webp",
+    "Files/14-dependency.webp",
+    "Files/13-composition.webp",
+    "Files/12-aggregation.webp",
+    "Files/11-associations-with-different-multiplicies.webp",
+    "Files/10-simple-association-example.webp",
+    "Files/08-inheritance-in-class-diagram.webp",
+    "Files/07-relationships-between-classes.webp",
     "Zettalkasten",
     "References",
     "Templates",

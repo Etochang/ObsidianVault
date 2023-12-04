@@ -32,11 +32,11 @@ title: Example Explained
 
 ### Class Variables
 
-AKA member variables, referring to variables that are declared within a class. Usually put into `private` for encapsulation purposes. Static member variables are shared across all instances, while regular ones are unique per instance.
+AKA member variables or attributes, they refer to variables that are declared within a class. Usually put into `private` for encapsulation purposes. Static member variables are shared across all instances, while regular ones are unique per instance.
 
 ### Class Methods
 
-Methods are [[C++ Functions|functions]] that belong to the class. AKA member functions, and are usually present in the `public` section of a class due to being the interface.
+Methods are [[C++ Functions|functions]] that belong to the class. AKA member functions or [[operation|operations]], and are usually present in the `public` section of a class due to being the interface.
 
 There are two ways to define functions that belong to a class:
 - Inside class definition
