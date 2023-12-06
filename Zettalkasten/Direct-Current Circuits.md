@@ -42,12 +42,14 @@ In a d'Arsonval galvanometer, the deflection is proportional to the current in t
 When a capacitor is charged by a battery in series with a resistor, the current and capacitor charge are not constant. The charge approaches its final value asymptotically and the current approaches zero asymptotically. After a time $\tau = RC$, the charge has approached within $1/e$ of its final value. $\tau$ is called the *time constant* of the circuit. 
 
 **Capacitor charging:**
-$$q = C\epsilon(1-e^{\frac{-t}{RC}})=Q_f(1-e^{\frac{-t}{RC}})$$
-$$i = \frac{dq}{dt} = \frac{\epsilon}{R}e^{\frac{-t}{RC}} = I_0e^{\frac{-t}{RC}}$$
+$$q = C\mathcal{E}(1-e^{\frac{-t}{RC}})=Q_f(1-e^{\frac{-t}{RC}})$$
+$$i = \frac{dq}{dt} = \frac{\mathcal{E}}{R}e^{\frac{-t}{RC}} = I_0e^{\frac{-t}{RC}}$$
 
 **Capacitor discharging:**
 $$q=Q_0e^{\frac{-t}{RC}}$$
 $$i = \frac{dq}{dt} = \frac{Q_0}{RC}e^{\frac{-t}{RC}}=I_0e^{\frac{-t}{RC}}$$
+This is the magnitude of the discharging current. If we cared about direction, then we would include the negative sign that would be there from regular differentiation.
+
 ![[Pasted image 20231115014429.png]]
 
 

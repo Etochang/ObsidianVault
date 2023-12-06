@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Electric Charge and Electric Field.md",
+                "file": "Zettalkasten/Electromagnetic Waves.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6111801baa7e3f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettalkasten/Polarization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Electric Charge and Electric Field.md",
+                "file": "Zettalkasten/Polarization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Electric Charge and Electric Field.md",
+                "file": "Zettalkasten/Polarization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Electric Charge and Electric Field.md"
+                "file": "Zettalkasten/Polarization.md"
               }
             }
           }
@@ -152,45 +166,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95332410a4022087",
+  "active": "6111801baa7e3f26",
   "lastOpenFiles": [
-    "Files/Pasted image 20231204163329.png",
-    "Files/Pasted image 20231204162825.png",
-    "Zettalkasten/Electromagnetism.md",
-    "Zettalkasten/Electric Charge and Electric Field.md",
+    "Files/Pasted image 20231205033151.png",
+    "Files/Pasted image 20231205032954.png",
+    "Files/Pasted image 20231205032924.png",
+    "Zettalkasten/The Nature and Propagation of Light.md",
+    "Zettalkasten/Polarization.md",
+    "Zettalkasten/Optics.md",
     "Zettalkasten/Electromagnetic Waves.md",
+    "Files/Pasted image 20231205032237.png",
+    "Files/Pasted image 20231205030953.png",
+    "Files/Pasted image 20231205030044.png",
+    "Zettalkasten/Electromagnetism.md",
+    "Zettalkasten/Alternating Current.md",
+    "Zettalkasten/Inductance.md",
+    "Zettalkasten/Electromagnetic Induction.md",
+    "Zettalkasten/Eddy Currents.md",
+    "Files/Pasted image 20231205021249.png",
+    "Files/Pasted image 20231205021138.png",
+    "Zettalkasten/Sources of Magnetic Field.md",
+    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
+    "Zettalkasten/Direct-Current Circuits.md",
     "Zettalkasten/Current, Resistance, and Electromotive Force.md",
+    "Files/Pasted image 20231205011429.png",
+    "Files/Pasted image 20231205011307.png",
+    "Files/Pasted image 20231205010950.png",
     "Zettalkasten/Capacitance and Dielectrics.md",
     "Zettalkasten/Electric Potential.md",
     "Zettalkasten/Gauss's Law.md",
-    "Zettalkasten/Direct-Current Circuits.md",
-    "Zettalkasten/Untitled.md",
     "Zettalkasten/physics.md",
-    "Zettalkasten/Mechanics.md",
-    "Zettalkasten/Waves & Acoustics.md",
-    "Zettalkasten/Thermodynamics.md",
-    "Zettalkasten/Optics.md",
-    "Zettalkasten/Modern Physics.md",
-    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
-    "Zettalkasten/Motion of Charged Particles in a Magnetic Field.md",
-    "Waves/Acoustics.md",
-    "Waves",
-    "Zettalkasten/Python.md",
-    "Zettalkasten/C++ Files.md",
+    "Zettalkasten/Electric Charge and Electric Field.md",
+    "Zettalkasten/class.md",
+    "Zettalkasten/C++ Functions.md",
+    "Zettalkasten/C++ Pointers.md",
+    "Zettalkasten/C++ References.md",
     "Zettalkasten/C++.md",
-    "Zettalkasten/When can C++ code compile but result in a runtime error❔.md",
-    "Zettalkasten/Python Functions.md",
-    "Zettalkasten/Python Loops.md",
-    "Zettalkasten/Python If ... Else.md",
-    "Files/Pasted image 20231203013201.png",
-    "Files/15-dependency-example.webp",
-    "Files/14-dependency.webp",
-    "Files/13-composition.webp",
-    "Files/12-aggregation.webp",
-    "Files/11-associations-with-different-multiplicies.webp",
-    "Files/10-simple-association-example.webp",
-    "Files/08-inheritance-in-class-diagram.webp",
-    "Files/07-relationships-between-classes.webp",
+    "Zettalkasten/C++ Templates.md",
+    "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+    "Waves",
     "Zettalkasten",
     "References",
     "Templates",

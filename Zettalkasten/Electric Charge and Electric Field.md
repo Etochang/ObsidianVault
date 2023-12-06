@@ -34,12 +34,37 @@ When two or more charges each exert a force on a charge, the total force on that
 
 ### d. [[Electric Field and Electric Forces]]
 
+Electric field $\vec{E}$ is the force per unit charge exerted on a text charge at any point.
+$$\vec{E} = \frac{\vec{F}_0}{q_0}$$
+The electric field produced by a point charge is directed radially away from a positive charge and radially toward a negative charge. 
+$$\vec{E} = \frac{1}{4\pi\epsilon_0} \frac{q}{r^2} \hat{r}$$
+![[Pasted image 20231204173534.png]]
+
+
 ### e. [[Electric Field Calculations]]
+
+The electric field $\vec{E}$ of any combination of charges is the vector sum of the fields caused by the individual charges. To calculate the electric field caused by a continuous distribution of charge, divide the distribution into small elements, calculate the field caused by each element, and then carry out the vector sum, usually by integrating.
+![[Pasted image 20231204173657.png]]
+
+Charge distributions are described by linear charge density $\lambda$ , surface charge density $\sigma$ , and volume charge density $\rho$ .  
+
 ### f. [[Electric Field Lines]]
+
+Field lines provide a graphical representation of electric fields. At any point on a field line, the tangent to the line is in the direction of $\vec{E}$ at that point.
+
+The number of lines per unit area (perpendicular to their direction) is proportional to the magnitude of $\vec{E}$ at the point.
+![[Pasted image 20231204174105.png]]
 ### g. [[Electric Dipoles]]
 
+An electric dipole is a pair of electric charges of equal magnitude $q$ but opposite sign, separated by a distance $d$ . The electric dipole moment $\vec{p}$ has magnitude $p = qd$ . The direction of $\vec{p}$ is from negative towards positive charge. 
 
-
+An electric dipole in an electric field $\vec{E}$ experiences a torque $\vec{\tau}$ equal to the vector product of $\vec{p}$ and $\vec{E}$ . 
+$$\tau = pE \sin{\phi}$$
+The magnitude of the torque depends on the angle $\phi$ between $\vec{p}$ and $\vec{E}$ .
+$$\vec{\tau} = \vec{p} \times \vec{E}$$
+The potential energy $U$ for an electric diploe in an electric field also depends on the relative orientation of $\vec{p}$ and $\vec{E}$ . 
+$$U = -\vec{p} \cdot \vec{E}$$
+![[Pasted image 20231204174626.png]]
 
 
 ---
