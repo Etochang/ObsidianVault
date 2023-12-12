@@ -22,6 +22,7 @@ Stands for **instruction set architecture**, and is used interchangeably with [[
 - [[instruction|Instructions]] for altering the execution sequence, i.e. [[function]] calls, [[conditional branch|conditional branches]], loops.
 ### 6. Privilege Levels:
 - Some ISAs have different levels of privilege that only let certain programs or entities to use certain [[instruction|instructions]].
+
 ```ad-info
 title: CISC vs. RISC
 CISC (Complex Instruction Set Computing) and RISC (Reduced Instruction Set Computing) are two different design philosophies for ISAs. The former aims to provide a large set of complex instructions while the latter aims to provide a smaller set of faster, simpler instructions.

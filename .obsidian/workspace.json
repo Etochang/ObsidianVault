@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb78d6ddb7a80258",
+        "id": "2b88b209e8262278",
         "type": "tabs",
         "children": [
           {
-            "id": "95332410a4022087",
+            "id": "699210d7365a2d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/Electromagnetic Waves.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6111801baa7e3f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettalkasten/Polarization.md",
+                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/Polarization.md",
+                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/Polarization.md",
+                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/Polarization.md"
+                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md"
               }
             }
           }
@@ -166,44 +152,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6111801baa7e3f26",
+  "active": "699210d7365a2d16",
   "lastOpenFiles": [
-    "Files/Pasted image 20231205033151.png",
-    "Files/Pasted image 20231205032954.png",
-    "Files/Pasted image 20231205032924.png",
-    "Zettalkasten/The Nature and Propagation of Light.md",
-    "Zettalkasten/Polarization.md",
-    "Zettalkasten/Optics.md",
-    "Zettalkasten/Electromagnetic Waves.md",
-    "Files/Pasted image 20231205032237.png",
-    "Files/Pasted image 20231205030953.png",
-    "Files/Pasted image 20231205030044.png",
-    "Zettalkasten/Electromagnetism.md",
-    "Zettalkasten/Alternating Current.md",
-    "Zettalkasten/Inductance.md",
-    "Zettalkasten/Electromagnetic Induction.md",
-    "Zettalkasten/Eddy Currents.md",
-    "Files/Pasted image 20231205021249.png",
-    "Files/Pasted image 20231205021138.png",
-    "Zettalkasten/Sources of Magnetic Field.md",
-    "Zettalkasten/Magnetic Field and Magnetic Forces.md",
-    "Zettalkasten/Direct-Current Circuits.md",
-    "Zettalkasten/Current, Resistance, and Electromotive Force.md",
-    "Files/Pasted image 20231205011429.png",
-    "Files/Pasted image 20231205011307.png",
-    "Files/Pasted image 20231205010950.png",
-    "Zettalkasten/Capacitance and Dielectrics.md",
-    "Zettalkasten/Electric Potential.md",
-    "Zettalkasten/Gauss's Law.md",
-    "Zettalkasten/physics.md",
-    "Zettalkasten/Electric Charge and Electric Field.md",
-    "Zettalkasten/class.md",
-    "Zettalkasten/C++ Functions.md",
-    "Zettalkasten/C++ Pointers.md",
-    "Zettalkasten/C++ References.md",
+    "Zettalkasten/Instructions - Language of the Computer.md",
+    "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
+    "Zettalkasten/computer organization.md",
+    "Zettalkasten/Computer Abstractions and Technology.md",
+    "Zettalkasten/Under the Covers.md",
+    "Zettalkasten/Technologies for Building Processors and Memory.md",
+    "Zettalkasten/Performance.md",
+    "Zettalkasten/Historical Perspective and Further Reading -.md",
+    "Files/F000011f01-15-9780128201091.jpg",
+    "Files/Pasted image 20231207025143.png",
+    "Files/Pasted image 20231207025128.png",
+    "Files/F000011f01-14-9780128201091.jpg",
+    "Files/F000011si1.png",
+    "Files/F000011f01-13-9780128201091.jpg",
+    "Files/F000011f01-12-9780128201091.jpg",
+    "Files/F000011f01-11-9780128201091.jpg",
+    "Files/F000011f01-10-9780128201091.jpg",
+    "Files/F000011icon04-9780128201091 2.jpg",
+    "Zettalkasten/ISA.md",
+    "Zettalkasten/microarchitecture.md",
+    "Zettalkasten/pixel.md",
+    "Zettalkasten/Below Your Program.md",
+    "Zettalkasten/instruction.md",
+    "Zettalkasten/Multiply Word to GPR Instruction.md",
     "Zettalkasten/C++.md",
-    "Zettalkasten/C++ Templates.md",
-    "Zettalkasten/Automatic (Local) vs. Dynamically Allocated Variables & Objects in C++.md",
+    "Zettalkasten/C.md",
+    "Zettalkasten/Seven Great Ideas in Computer Architecture.md",
+    "Zettalkasten/Introduction.md",
+    "Zettalkasten/Laplace Transforms.md",
+    "Zettalkasten/Step Functions.md",
+    "Zettalkasten/Inverse Laplace Transforms.md",
+    "Zettalkasten/Laplace Transforms Intro.md",
+    "Zettalkasten/The Definition - Laplace Transforms.md",
+    "Zettalkasten/differential equation.md",
+    "Zettalkasten/First Order DE's.md",
+    "Zettalkasten/Separable Equations.md",
     "Waves",
     "Zettalkasten",
     "References",
