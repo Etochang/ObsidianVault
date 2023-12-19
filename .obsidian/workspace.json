@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
+                "file": "Zettalkasten/The Power Wall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
+                "file": "Zettalkasten/The Power Wall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
+                "file": "Zettalkasten/The Power Wall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettalkasten/MIPS Assembly Language Programming and MARS.md"
+                "file": "Zettalkasten/The Power Wall.md"
               }
             }
           }
@@ -154,13 +154,18 @@
   },
   "active": "699210d7365a2d16",
   "lastOpenFiles": [
-    "Zettalkasten/Instructions - Language of the Computer.md",
-    "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
-    "Zettalkasten/computer organization.md",
     "Zettalkasten/Computer Abstractions and Technology.md",
-    "Zettalkasten/Under the Covers.md",
+    "Zettalkasten/The Power Wall.md",
     "Zettalkasten/Technologies for Building Processors and Memory.md",
     "Zettalkasten/Performance.md",
+    "Zettalkasten/Under the Covers.md",
+    "Zettalkasten/integrated circuit.md",
+    "Zettalkasten/Below Your Program.md",
+    "Zettalkasten/Seven Great Ideas in Computer Architecture.md",
+    "Zettalkasten/Introduction.md",
+    "Zettalkasten/computer organization.md",
+    "Zettalkasten/Instructions - Language of the Computer.md",
+    "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
     "Zettalkasten/Historical Perspective and Further Reading -.md",
     "Files/F000011f01-15-9780128201091.jpg",
     "Files/Pasted image 20231207025143.png",
@@ -175,21 +180,16 @@
     "Zettalkasten/ISA.md",
     "Zettalkasten/microarchitecture.md",
     "Zettalkasten/pixel.md",
-    "Zettalkasten/Below Your Program.md",
     "Zettalkasten/instruction.md",
     "Zettalkasten/Multiply Word to GPR Instruction.md",
     "Zettalkasten/C++.md",
     "Zettalkasten/C.md",
-    "Zettalkasten/Seven Great Ideas in Computer Architecture.md",
-    "Zettalkasten/Introduction.md",
     "Zettalkasten/Laplace Transforms.md",
     "Zettalkasten/Step Functions.md",
     "Zettalkasten/Inverse Laplace Transforms.md",
     "Zettalkasten/Laplace Transforms Intro.md",
     "Zettalkasten/The Definition - Laplace Transforms.md",
     "Zettalkasten/differential equation.md",
-    "Zettalkasten/First Order DE's.md",
-    "Zettalkasten/Separable Equations.md",
     "Waves",
     "Zettalkasten",
     "References",

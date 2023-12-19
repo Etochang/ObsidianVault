@@ -68,7 +68,7 @@ The image below shows the contents of the Apple iPhone Xs Max smart phone. Unsur
 >[!example] Apple iPhone Xs Max
 >![[F000011f01-07-9780128201091.jpg]]
 
-The small rectangles in the image below contain the devices that drive our advancing technology, called **integrated circuits** and nicknamed **chips**. The A12 package seen in the middle of the image contains two large ARM processors and four little ARM processors that operate with a clock rate of 2.5 GHz. The _processor_ is the active part of the computer, following the instructions of a program to the letter. It adds numbers, tests numbers, signals I/O devices to activate, and so on. Occasionally, people call the processor the **CPU**, for the more bureaucratic-sounding **central processor unit**.
+The small rectangles in the image below contain the devices that drive our advancing technology, called **[[integrated circuit|integrated circuits]]** and nicknamed **chips**. The A12 package seen in the middle of the image contains two large ARM processors and four little ARM processors that operate with a clock rate of 2.5 GHz. The _processor_ is the active part of the computer, following the instructions of a program to the letter. It adds numbers, tests numbers, signals I/O devices to activate, and so on. Occasionally, people call the processor the **CPU**, for the more bureaucratic-sounding **central processor unit**.
 
 >[!note] integrated circuit
 >Also called a chip. A device combining dozens to millions of transistors.
