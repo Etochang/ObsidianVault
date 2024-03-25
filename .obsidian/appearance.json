@@ -10,13 +10,13 @@
     "Quote Callout",
     "Tasks Redesign",
     "Blockquotes Hover Effect",
-    "gradient headings",
     "fixnewline admonition",
+    "Centered H1",
     "Enlarge Image on Hover",
-    "Centered H1"
+    "gradient headings"
   ],
   "translucency": true,
-  "baseFontSize": 23,
+  "baseFontSize": 30,
   "showViewHeader": false,
   "interfaceFontFamily": "Segoe UI",
   "textFontFamily": "SF Pro",

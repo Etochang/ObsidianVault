@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "81ae45c2f9b8e96a",
+        "id": "8043a1727507afff",
         "type": "tabs",
         "children": [
           {
-            "id": "d32f5a3f35b0ed34",
+            "id": "111adaa7179a913b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/CSE 320/1_8_2024.md",
+                "file": "Class Homework/CSE 325/Project 5 Report.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17734cc10e11c84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Homework/CSE 325/Project 4 Report.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/CSE 320/1_8_2024.md",
+                "file": "Class Homework/CSE 325/Project 5 Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Notes/CSE 320/1_8_2024.md",
+                "file": "Class Homework/CSE 325/Project 5 Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/CSE 320/1_8_2024.md"
+                "file": "Class Homework/CSE 325/Project 5 Report.md"
               }
             }
           }
@@ -151,51 +163,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d32f5a3f35b0ed34",
+  "active": "111adaa7179a913b",
   "lastOpenFiles": [
-    "Class Notes/CSE 325/1_8_2024.md",
-    "Class Notes/CSE 320/1_8_2024.md",
-    "Class Notes/CSE 320",
-    "Class Notes/testing.md",
-    "Class Notes/CSE 325",
-    "Zettalkasten/testing.md",
-    "Zettalkasten/The Power Wall.md",
-    "Zettalkasten/Computer Abstractions and Technology.md",
-    "Class Notes",
-    "Zettalkasten/Technologies for Building Processors and Memory.md",
-    "Zettalkasten/Performance.md",
-    "Zettalkasten/Under the Covers.md",
-    "Zettalkasten/integrated circuit.md",
-    "Zettalkasten/Below Your Program.md",
-    "Zettalkasten/Seven Great Ideas in Computer Architecture.md",
-    "Zettalkasten/Introduction.md",
-    "Zettalkasten/computer organization.md",
-    "Zettalkasten/Instructions - Language of the Computer.md",
-    "Zettalkasten/MIPS Assembly Language Programming and MARS.md",
-    "Zettalkasten/Historical Perspective and Further Reading -.md",
-    "Files/F000011f01-15-9780128201091.jpg",
-    "Files/Pasted image 20231207025143.png",
-    "Files/Pasted image 20231207025128.png",
-    "Files/F000011f01-14-9780128201091.jpg",
-    "Files/F000011si1.png",
-    "Files/F000011f01-13-9780128201091.jpg",
-    "Files/F000011f01-12-9780128201091.jpg",
-    "Files/F000011f01-11-9780128201091.jpg",
-    "Files/F000011f01-10-9780128201091.jpg",
-    "Files/F000011icon04-9780128201091 2.jpg",
-    "Zettalkasten/ISA.md",
-    "Zettalkasten/microarchitecture.md",
-    "Zettalkasten/pixel.md",
-    "Zettalkasten/instruction.md",
-    "Zettalkasten/Multiply Word to GPR Instruction.md",
-    "Zettalkasten/C++.md",
+    "Files/Pasted image 20240322233654.jpg",
+    "Files/Pasted image 20240322233650.jpg",
+    "Class Homework/CSE 325/Project 4 Report.md",
+    "Class Homework/CSE 325/Project 5 Report.md",
+    "Class Homework/CSE 325/Project 3 Report.md",
+    "Class Notes/CSE 310/3_21_2024.md",
+    "Class Notes/CSE 310/2_15_2024.md",
+    "Class Notes/IEE 380/Test 2 Cheatsheet.md",
+    "Class Notes/IEE 380/Test 1 Cheatsheet.md",
+    "Zettalkasten/TensorFlow.md",
+    "Class Notes/CSE 325/Midterm Recitation.md",
+    "Zettalkasten/LPPD - Video.md",
+    "Zettalkasten/Alternating Current.md",
+    "Class Notes/CSE 320/Midterm Study.md",
+    "Class Notes/CSE 320/1_10_2024.md",
+    "Class Notes/CSE 320/1_31_2024.md",
+    "Class Notes/CSE 320/2_26_2024.md",
+    "Class Notes/CSE 320/1_29_2024.md",
+    "Class Notes/CSE 320/1_22_2024.md",
+    "Class Notes/CSE 320/1_24_2024.md",
+    "Files/Pasted image 20240316024755.jpg",
+    "Files/Pasted image 20240316024729.jpg",
+    "Class Homework/CSE 310/Homework 4.md",
+    "Class Homework/CSE 310/Homework 3.md",
+    "Class Notes/CSE 310/2_8_2024.md",
     "Zettalkasten/C.md",
-    "Zettalkasten/Laplace Transforms.md",
-    "Zettalkasten/Step Functions.md",
+    "Class Notes/CSE 320/2_5_2024.md",
+    "Files/Pasted image 20240223144038.jpg",
+    "Files/Pasted image 20240223144027.jpg",
+    "Files/Pasted image 20240223144014.jpg",
+    "Files/Pasted image 20240223144005.jpg",
+    "Files/Pasted image 20240223143952.jpg",
+    "Files/Pasted image 20240223142533.png",
+    "Class Homework/CSE 325/Project Two Report.md",
+    "Class Notes/CSE 310/Midterm Cheatsheet.md",
+    "Files/Pasted image 20240212123054.png",
+    "Class Notes/IEE 380",
+    "Class Homework/CSE 325",
+    "Class Homework/CSE 310",
+    "Class Homework",
+    "Class Notes/CSE 310",
+    "Class Notes/CSE 320",
+    "Class Notes/CSE 325",
+    "Class Notes",
     "Waves",
-    "Zettalkasten",
-    "References",
-    "Templates",
-    "Files"
+    "Zettalkasten"
   ]
 }
