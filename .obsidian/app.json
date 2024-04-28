@@ -9,6 +9,6 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "2",
-    "downscalePercent": 50
+    "downscalePercent": 60
   }
 }
