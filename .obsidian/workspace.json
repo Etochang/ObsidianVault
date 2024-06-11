@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "93d9a63f9e570e37",
+        "id": "d2a9094b6897f622",
         "type": "tabs",
         "children": [
           {
-            "id": "64fed321f40ae693",
+            "id": "d3dc95071f847791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/CSE 320/Final.md",
+                "file": "Class Notes/CSE 360/Module 6/Object Oriented Analysis and Modeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c73fbe16f2736883",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/CSE 320/Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Notes/CSE 320/Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Class Notes/CSE 320/Final.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,52 +157,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8df5bb988904b730",
+  "active": "c73fbe16f2736883",
   "lastOpenFiles": [
-    "Class Notes/CSE 320/Midterm Study.md",
-    "Class Homework/CSE 325/Project 7 Report.md",
-    "Files/Pasted image 20240423112721.png",
-    "Class Homework/CSE 325/Project 6 Report.md",
-    "Files/Pasted image 20240423111120.png",
-    "Class Notes/IEE 380/Test 1 Cheatsheet.md",
-    "Class Notes/CSE 320/Final.md",
-    "Class Notes/CSE 320/2_5_2024.md",
-    "Zettalkasten/Final Thoughts.md",
-    "Class Notes/IEE 380/Test 2 Cheatsheet.md",
-    "Class Notes/CSE 325/Midterm 2 Cheatsheet.md",
-    "Class Homework/CSE 325/Project 5 Report.md",
-    "Class Notes/CSE 325/Midterm Recitation.md",
-    "Class Homework/CSE 310/Homework 5.md",
-    "Class Homework/CSE 310/Homework 4.md",
-    "Class Notes/CSE 310/Midterm Cheatsheet.md",
-    "Files/Pasted image 20240326134029.png",
-    "Files/Pasted image 20240326133202.png",
-    "Files/Pasted image 20240326133052.png",
-    "Files/Pasted image 20240326132902.png",
-    "Files/Pasted image 20240326132833.png",
-    "Files/Pasted image 20240326124102.png",
-    "Files/Pasted image 20240326124008.png",
-    "Files/Pasted image 20240322233654.jpg",
-    "Class Homework/CSE 325/Project 4 Report.md",
-    "Class Homework/CSE 325/Project 3 Report.md",
-    "Class Notes/CSE 310/3_21_2024.md",
-    "Class Notes/CSE 310/2_15_2024.md",
-    "Zettalkasten/TensorFlow.md",
-    "Zettalkasten/LPPD - Video.md",
-    "Zettalkasten/Alternating Current.md",
-    "Class Notes/CSE 320/1_10_2024.md",
-    "Class Notes/CSE 320/1_31_2024.md",
-    "Class Notes/CSE 320/2_26_2024.md",
-    "Class Notes/CSE 320/1_29_2024.md",
-    "Class Notes/IEE 380",
-    "Class Homework/CSE 325",
-    "Class Homework/CSE 310",
-    "Class Homework",
-    "Class Notes/CSE 310",
-    "Class Notes/CSE 320",
-    "Class Notes/CSE 325",
-    "Class Notes",
-    "Waves",
-    "Zettalkasten"
+    "Class Notes/CSE 360/Module 1/Software Engineering Process Activities.md",
+    "Class Notes/CSE 360/Module 6/Fundamentals of Object Oriented Analysis and Design.md",
+    "Class Notes/CSE 360/Module 6/Object Oriented Analysis and Modeling.md",
+    "Class Notes/CSE 360/Module 6/Documenting Software Analysis.md",
+    "Files/Pasted image 20240609183007.png",
+    "Files/Pasted image 20240609175805.png",
+    "Files/Pasted image 20240609175742.png",
+    "Files/Pasted image 20240609175535.png",
+    "Files/Pasted image 20240609175217.png",
+    "Files/Pasted image 20240609174938.png",
+    "Files/Pasted image 20240609174855.png",
+    "Files/Pasted image 20240609174743.png",
+    "Files/Pasted image 20240609174540.png",
+    "Class Notes/CSE 360/Module 5/Software Process Activities - A Closer Look.md",
+    "Class Notes/CSE 360/Module 6",
+    "Class Notes/CSE 360/Module 5/Software Requirement Engineering.md",
+    "Files/Pasted image 20240608182746.png",
+    "Class Notes/CSE 330/Reading - Module 5.md",
+    "Class Notes/CSE 360/Module 5",
+    "Class Notes/CSE 301/Reading - M8.md",
+    "Class Notes/CSE 301/Reading - M6.md",
+    "Files/Ethics for the Information Age - Michael J. Quinn 3.pdf",
+    "Files/Ethics for the Information Age - Michael J. Quinn 1.pdf",
+    "Class Notes/CSE 301/Reading - M5.md",
+    "Class Notes/CSE 301/Reading - M4.md",
+    "Class Notes/CSE 301/Reading - M3.md",
+    "Class Notes/CSE 301/Reading - M2.md",
+    "Class Notes/CSE 301/Reading - M7.md",
+    "Class Notes/CSE 330/Reading - Module 3.md",
+    "Class Notes/CSE 330/Reading - Module 4.md",
+    "Class Notes/CSE 330/Untitled.md",
+    "Class Notes/CSE 330/Reading - Module 2.md",
+    "Class Notes/CSE 330/Reading - Module 1.md",
+    "Class Notes/CSE 360/Module 4/Incremental Software Process Model.md",
+    "Class Notes/CSE 360/Module 4/Agile Process Models.md",
+    "Class Notes/CSE 360/Module 4/Software Process Models.md",
+    "Class Notes/CSE 360/Module 4/Process Improvement and Maturity.md",
+    "Class Notes/CSE 360/Module 4/Waterfall Software Process Models.md",
+    "Class Notes/CSE 360/Module 4",
+    "Class Notes/CSE 360/Module 1/Software Engineering vs. Computer Science.md",
+    "Class Notes/CSE 360/Module 1/What is Software Engineering❔.md",
+    "Files/Software Engineering - Ian Sommerville 1.pdf",
+    "Class Notes/CSE 360/Module 2",
+    "Files/Ethics for the Information Age - Michael J. Quinn 2.pdf",
+    "Files/Operating System Concepts - Abraham Silberschatz, Peter Bae.pdf",
+    "Class Notes/CSE 330/Untitled"
   ]
 }

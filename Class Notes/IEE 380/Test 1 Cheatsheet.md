@@ -39,7 +39,7 @@
 		1. Normal w/ $\mu = 0$ and $\sigma^2=1$, denoted as $Z$
 		2. $\frac{X-\mu}{\sigma} = Z$; $\frac{x-\mu}{\sigma} = z$(zscore); 
 	7. Normal
-		1. $f(x) = \frac{1}{\sqrt{2\pi}\sigma} e^\frac{-(x-\mu)^2}{2\sigma^2}$; $E(X) = \mu$; $
+		1. $f(x) = \frac{1}{\sqrt{2\pi}\sigma} e^\frac{-(x-\mu)^2}{2\sigma^2}$, $-\infty < x< \infty$; $E(X) = \mu$, $V(X) = \sigma^2$
 	8. Exponential
 		1. $X$ equals **distance between successive events** from a Poisson process with mean number of events $\lambda$ per unit interval is an *exponential random variable*.
 		2. $f(x) = \lambda e^{-\lambda x}$ for $0 \le x < \infty$; $E(X) = \frac{1}{\lambda}; V(X) = \frac{1}{\lambda^2}$
