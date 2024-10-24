@@ -42,7 +42,7 @@ Computer technology has conquered our world today:
 	- Embedded control systems
 	- air traffic control software
 	- traffic monitoring systems
-- The specification of what the software should do is owned by the customer for the software and they make decide what changes are required.
+- The specification of what the software should do is owned by the customer for the software and they make decisions on what changes are required.
 
 ## Software vs Hardware
 

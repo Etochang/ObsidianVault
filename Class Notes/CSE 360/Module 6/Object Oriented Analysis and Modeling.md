@@ -89,8 +89,8 @@ are like an index card set where each index card has three portions:
 	- private - accessible by methods within the class
 	- protected - accessible by methods of the class and its subclasses
 - UML notation
-	- +
-	- -
+	- \+
+	- \-
 	- \#
 
 

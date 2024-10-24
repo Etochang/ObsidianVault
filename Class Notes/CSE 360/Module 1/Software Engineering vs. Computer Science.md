@@ -39,7 +39,7 @@ Software team works on achieving project goals, product goals, and strike a bala
 >- Maximum user satisfaction
 >- Minimal response time
 >- Good maintainability
->- Good extendability
+>- Good extendibility
 >- High robustness
 >- High correctness
 
