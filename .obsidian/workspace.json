@@ -11,10 +11,15 @@
             "id": "5fa52c4064660614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CH4 - Network Layer Data Plane"
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -163,6 +169,8 @@
   },
   "active": "5fa52c4064660614",
   "lastOpenFiles": [
+    "Files/Pasted image 20241113192637.png",
+    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Class Notes/CSE 434/Textbook/CH3 - Transport Layer.md",
     "Class Notes/CSE 423/Picamera.md",
     "Files/Pasted image 20241022122229.png",
@@ -201,7 +209,6 @@
     "Class Notes/CSE 330/Videos - Module 12.md",
     "Class Notes/CSE 330/Videos - Module 11.md",
     "README.md",
-    "Class Notes/CSE 330/Untitled.md",
     "Class Notes/CSE 360/Module 12",
     "Class Notes/CSE 360/Module 11",
     "Class Notes/CSE 360/Module 10",
