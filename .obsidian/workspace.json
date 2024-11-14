@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a2185229ce01b7b5",
+        "id": "1e19afa82fa0463e",
         "type": "tabs",
         "children": [
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -169,12 +168,12 @@
   },
   "active": "5fa52c4064660614",
   "lastOpenFiles": [
+    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Files/Pasted image 20241113194411.png",
     "Files/Pasted image 20241113194306.png",
     "Files/Pasted image 20241113194257.png",
     "Files/Pasted image 20241113194048.png",
     "Files/Pasted image 20241113192637.png",
-    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Class Notes/CSE 434/Textbook/CH3 - Transport Layer.md",
     "Class Notes/CSE 423/Picamera.md",
     "Files/Pasted image 20241022122229.png",
@@ -184,7 +183,6 @@
     "Files/Pasted image 20241016192346.png",
     "Files/Pasted image 20241016192336.png",
     "Files/Pasted image 20241016192235.png",
-    "Files/Pasted image 20241016192223.png",
     "Class Notes/CSE 423/Zero Trust.md",
     "Class Notes/EEE 334/8_29_2024.md",
     "Class Notes/CSE 423",
