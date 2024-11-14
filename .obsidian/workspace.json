@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e11a270eb3101066",
+        "id": "a2185229ce01b7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "820937141e9603ac",
+            "id": "5fa52c4064660614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Notes/CSE 434/Textbook/CH3 - Transport Layer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CH3 - Transport Layer"
-            }
-          },
-          {
-            "id": "e7184b17fcd69972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Notes/CSE 423/Picamera.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Picamera"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -179,14 +157,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7184b17fcd69972",
+  "active": "5fa52c4064660614",
   "lastOpenFiles": [
     "Class Notes/CSE 434/Textbook/CH3 - Transport Layer.md",
-    "Files/Pasted image 20241022122229.png",
     "Class Notes/CSE 423/Picamera.md",
+    "Files/Pasted image 20241022122229.png",
     "Class Notes/CSE 434/Textbook",
     "Class Notes/CSE 423/Zero Trust in Embedded Research.md",
     "Files/Pasted image 20241016192428.png",
