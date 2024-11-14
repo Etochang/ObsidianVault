@@ -32,6 +32,9 @@ Tags:
 
 ### 4.2.1 Input Port Processing and Destination-Based Forwarding
 
+![[Pasted image 20241113194048.png]]
+> Detailed View of Input Port Processing
+
 
 
 
