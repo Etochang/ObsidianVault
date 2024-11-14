@@ -35,9 +35,15 @@ Tags:
 ![[Pasted image 20241113194048.png]]
 > Detailed View of Input Port Processing
 
+![[Pasted image 20241113194257.png]]
+>Ranges View of Forwarding Table
 
+![[Pasted image 20241113194306.png]]
+>Prefixes View of Forwarding Table
 
+- When there are multiple matches, the router uses the **longest prefix matching rule**.
 
+Once a packet's output port has been determined, the packet can be sent into the switching fabric. In some designs, a packet may be temporarily blocked from entering the switching fabric if packets from other input ports are currently using the fabric.
 
 ---
 # *References*
