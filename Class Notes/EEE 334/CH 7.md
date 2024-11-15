@@ -27,7 +27,7 @@ A simple way to convert a transconductance amplifier to a voltage amplifier is t
 
 ![[Pasted image 20241114191946.png]]
 
-
+In the figures above, the output voltage is taken between the drain/collector and ground instead of across the load resistor because a ****
 
 
 
