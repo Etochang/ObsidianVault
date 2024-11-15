@@ -52,7 +52,7 @@ Biasing enables us to obtain almost-linear amplification from the MOSFET and the
 
 We select a dc input voltage $V_{GS}$ or $V_{BE}$ to obtain operation at a point Q on the segment AB of the VTC. Point Q is known as the **bias point** or the **dc operating point**. It is also known as the **quiescent point**.
 
-Next, the signal to be amplified, $v_{gs}$
+Next, the signal to be amplified, $v_{gs}$ or $v_{be}$, a function of time $t$, is superimposed on the bias voltage 
 
 ---
 # *References*
