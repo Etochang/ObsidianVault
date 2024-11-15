@@ -17,7 +17,7 @@ $$i_C = I_S e^{v_{BE}/V_T}$$
 
 ![[Pasted image 20241114184316.png]]
 
-
+In the MOSFET model, $i_D$ doesn't depend on $v_{DS}$ because the channel is pinched off 
 
 
 ---
