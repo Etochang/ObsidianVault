@@ -27,9 +27,20 @@ A simple way to convert a transconductance amplifier to a voltage amplifier is t
 
 ![[Pasted image 20241114191946.png]]
 
-In the figures above, the output voltage is taken between the drain/collector and ground instead of across the load resistor because a ****
+In the figures above, the output voltage is taken between the drain/collector and ground instead of across the load resistor because a **common ground reference** is needed between the input and output signals. 
+$$v_{DS} = V_{DD} - i_DR_D$$
+$$v_{CE} = V_{CC}-i_CR_C$$
 
+### 7.1.3 The Voltage-Transfer Characteristic (VTC)
 
+The VTC is simply a plot of the output voltage versus the input voltage. 
+
+![[Pasted image 20241114191946.png]]
+
+The segment of greatest slope (hence potentially largest amplifier gain) is AB, which corresponds to operation in the active region. **To use a MOSFET as an amplifier, we confine its operating point to the segment AB**. 
+
+The coordinates of B are:
+$$V_{GS}
 
 
 
