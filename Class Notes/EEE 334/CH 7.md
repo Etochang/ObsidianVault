@@ -17,7 +17,9 @@ $$i_C = I_S e^{v_{BE}/V_T}$$
 
 ![[Pasted image 20241114184316.png]]
 
-In the MOSFET model, $i_D$ doesn't depend on $v_{DS}$ because the channel is pinched off 
+In the MOSFET model, $i_D$ doesn't depend on $v_{DS}$ because the channel is pinched off, "isolating" the drain ($v_{GD} \le V_{tn}$). Similarly, in the BJT model, $i_C$ doesn't depend on $v_{CE}$ because the CBJ is reverse-biased, thus "isolating" the connector ($v_{BC} \le 0.4$).
+
+
 
 
 ---
