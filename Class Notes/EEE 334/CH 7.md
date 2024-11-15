@@ -37,14 +37,22 @@ The VTC is simply a plot of the output voltage versus the input voltage.
 
 ![[Pasted image 20241114191946.png]]
 
-The segment of greatest slope (hence potentially largest amplifier gain) is AB, which corresponds to operation in the active region. **To use a MOSFET as an amplifier, we confine its operating point to the segment AB**. 
+The segment of greatest slope (hence potentially largest amplifier gain) is AB, which corresponds to operation in the active region. **To use a transistor as an amplifier, we confine its operating point to the segment AB**. 
 
-The coordinates of B are:
+The coordinates of B for MOSFET are:
 $$V_{GS} \Bigr\rvert_B = V_t + \frac{\sqrt{2k_nR_DV_{DD}+1}-1}{k_nR_D}$$
+$$V_{DS}\Bigr\rvert_B = V_{OV}\Bigr\rvert_B \equiv \frac{\sqrt{2k_nR_DV_{DD}+1}-1}{k_nR_D}$$
+For BJT:
+$$V_{BE} \Bigr\rvert_B = 0.7 V$$
+$$V_{CE} \Bigr\rvert_B = 0.3 V$$
 
+### 7.1.4 Obtaining Linear Amplification by Biasing the Transistor
 
+Biasing enables us to obtain almost-linear amplification from the MOSFET and the BJT. 
 
+We select a dc input voltage $V_{GS}$ or $V_{BE}$ to obtain operation at a point Q on the segment AB of the VTC. Point Q is known as the **bias point** or the **dc operating point**. It is also known as the **quiescent point**.
 
+Next, the signal to be amplified, $v_{gs}$
 
 ---
 # *References*
