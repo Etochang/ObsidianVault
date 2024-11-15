@@ -52,7 +52,16 @@ Biasing enables us to obtain almost-linear amplification from the MOSFET and the
 
 We select a dc input voltage $V_{GS}$ or $V_{BE}$ to obtain operation at a point Q on the segment AB of the VTC. Point Q is known as the **bias point** or the **dc operating point**. It is also known as the **quiescent point**.
 
-Next, the signal to be amplified, $v_{gs}$ or $v_{be}$, a function of time $t$, is superimposed on the bias voltage 
+Next, the signal to be amplified, $v_{gs}$ or $v_{be}$, a function of time $t$, is superimposed on the bias voltage, and the resulting $v_{DS}(t)$ or $v_{BE}(t)$ can be obtained using the active region VTC equations.
+
+![[Pasted image 20241114194843.png]]
+
+The amplitude of $v_{gs}$ is small enough to restrict the excursion from Q to a short, almost-linear segment. The shorter the segment, the greater the linearity achieved.
+
+>[!warning] increasing the amplitude of the input signal
+>As the instantaneous operating point is no longer confined to the almost-linear segment of the VTC, $v_{ds}$ loses linearity. 
+>
+>If the input signal amplitude 
 
 ---
 # *References*
