@@ -40,7 +40,8 @@ The VTC is simply a plot of the output voltage versus the input voltage.
 The segment of greatest slope (hence potentially largest amplifier gain) is AB, which corresponds to operation in the active region. **To use a MOSFET as an amplifier, we confine its operating point to the segment AB**. 
 
 The coordinates of B are:
-$$V_{GS}
+$$V_{GS} \Bigr\rvert_B = V_t + \frac{\sqrt{2k_nR_DV_{DD}+1}-1}{k_nR_D}$$
+
 
 
 
