@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1e19afa82fa0463e",
+        "id": "a2185229ce01b7b5",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+                "file": "Class Notes/EEE 334/CH 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH4 - Network Layer Data Plane"
+              "title": "CH 7"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -169,6 +170,7 @@
   "active": "5fa52c4064660614",
   "lastOpenFiles": [
     "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+    "Class Notes/EEE 334/CH 7.md",
     "Files/Pasted image 20241113194411.png",
     "Files/Pasted image 20241113194306.png",
     "Files/Pasted image 20241113194257.png",
