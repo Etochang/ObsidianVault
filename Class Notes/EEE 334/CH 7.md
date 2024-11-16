@@ -69,6 +69,8 @@ The amplitude of $v_{gs}$ is small enough to restrict the excursion from Q to a 
 
 ### 7.1.5 The Small-Signal Voltage Gain
 
+#### The MOSFET Case
+
 
 
 
