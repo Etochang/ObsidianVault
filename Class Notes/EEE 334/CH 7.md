@@ -119,7 +119,6 @@ $$i_d = k_n (V_{GS}-V_t)v_{gs}$$
 
 The parameter that relates $i_d$ and $v_{gs}$ is the MOSFET **transconductance** $g_m$:
 $$g_m \equiv \frac{i_d}{v_{gs}} = k_nV_{OV}$$
-
 #### The Voltage Gain
 
 We can now express the total instantaneous drain voltage $v_{DS}$ as follows:
@@ -142,6 +141,23 @@ Putting this together, we arrive at the circuit below, which represents the smal
 ![[Pasted image 20241115193849.png]]
 
 (a) neglects the dependence of $i_D$ on $v_{DS}$, while (b) includes the effect of channel-length modulation, modeled by $r_o = \frac{|V_A|}{I_D}$, where $V_A = 1/\lambda$. 
+
+It is important to note that the small-signal model parameters $g_m$ and $r_o$ depend on the dc bias point (Q) of the MOSFET.
+
+![[Pasted image 20241115194516.png]]
+
+Replacing the MOSFET with the small-signal model and eliminating the dc sources results in the circuit above, from which the following expression for the voltage gain can be found:
+$$A_v = \frac{v_{ds}}{v_{gs}} = -g_m(R_D||r_o)$$
+Thus, the finite output resistance $r_o$ reduces the magnitude of the voltage gain.
+
+#### The Transconductance $g_m$
+
+$$g_m=k_n'(W/L)V_{OV}$$
+$$g_m = \sqrt{2k_n'} \sqrt{W/L} \sqrt{I_D}$$
+1. For a given MOSFET, $g_m$ is proportional to the square root of the dc bias current
+2. At a given bias current, $g_m$ is proportional to $\sqrt{W/L}$
+
+In contrast, the transconductance of the BJT is proportional to the bias current and is independent of they physical size and geometry of the device. 
 
 
 
