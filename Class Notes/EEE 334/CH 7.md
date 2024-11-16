@@ -112,6 +112,23 @@ The total instantaneous gate-to-source voltage will be:
 $$v_{GS} = V_{GS}+v_{gs}$$
 resulting in a total instantaneous drain current:
 $$i_D=\frac{1}{2} k_n(V_{GS}+v_{gs}-V_t)^2$$
+If $v_{gs} << 2V_{OV}$, we can express $i_D$ as 
+$$i_D \approx I_D+i_d$$
+where
+$$i_d = k_n (V_{GS}-V_t)v_{gs}$$
+
+The parameter that relates $i_d$ and $v_{gs}$ is the MOSFET **transconductance** $g_m$:
+$$g_m \equiv \frac{i_d}{v_{gs}} = k_nV_{OV}$$
+
+#### The Voltage Gain
+
+We can now express the total instantaneous drain voltage $v_{DS}$ as follows:
+$$v_{DS} = V_{DS} - R_Di_d$$
+
+Thus the signal component of the drain voltage is 
+$$v_{ds} = -i_dR_D = -g_mv_{gs}R_D$$
+which indicates that the voltage gain is given by
+$$A_v \equiv \frac{v_{ds}}{v_{gs}} = -g_mR_D$$
 
 
 
