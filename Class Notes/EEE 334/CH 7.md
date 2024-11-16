@@ -95,6 +95,25 @@ $$A_v=-\frac{V_{CC}-V_{CE}}{V_T}$$
 
 The maximum gain is achieved when $V_{CE}$ is about 0.3V. 
 
+## 7.2 Small-Signal Operation and Models
+
+### 7.2.1 The MOSFET Case
+
+![[Pasted image 20241115183037.png]]
+
+#### The DC Bias Point
+
+We can find the DC bias current $I_D$ by setting the signal $v_{gs}$ to zero:
+$$I_D= \frac{1}{2}k_nV_{OV}^2$$
+To ensure saturation-region operation, we must have $$V_{DS} > V_{OV}$$
+#### The Signal Current in the Drain Terminal
+
+The total instantaneous gate-to-source voltage will be:
+$$v_{GS} = V_{GS}+v_{gs}$$
+resulting in a total instantaneous drain current:
+$$i_D=\frac{1}{2} k_n(V_{GS}+v_{gs}-V_t)^2$$
+
+
 
 
 
