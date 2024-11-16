@@ -84,6 +84,18 @@ $$A_v=-\frac{V_{DD}-V_{DS}}{V_{OV}/2}$$
 
 The maximum gain magnitude $|A_{vmax}|$ is obtained by biasing the transistor at point B. To maximize the gain, the bias point Q should be as close to point B as possible, consistent with the required signal swing at the output.
 
+#### The BJT Case
+
+$$A_v = \frac{dv_{CE}}{dv_{BE}} \Bigr\rvert_{v_{BE}=V_{BE}}$$
+$$A_v = -(\frac{I_C}{V_T})R_C$$
+$$A_v=-\frac{V_{CC}-V_{CE}}{V_T}$$
+
+1. The gain is negative, which means the amplifier is inverting (180° phase shift between input and output)
+2. The gain is proportional to the collector bias current $I_C$ and to the load resistance $R_C$
+
+The maximum gain is achieved when $V_{CE}$ is about 0.3V. 
+
+
 
 
 
