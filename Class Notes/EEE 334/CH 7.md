@@ -133,7 +133,9 @@ $$A_v \equiv \frac{v_{ds}}{v_{gs}} = -g_mR_D$$
 
 We see that under the small-signal approximation, signal quantities are superimposed on dc quantities. It follows that we can greatly simplify the analysis and design by separating dc or bias calculations from small-signal calculations. **That is, once we have stablished a stable dc operating point and have calculated all dc quantities, we can perform signal analysis ignoring dc quantities.**
 
+#### Small-Signal Equivalent-Circuit Models
 
+From a signal point of view, the FET behaves as a voltage-controlled current source. It 
 
 
 
