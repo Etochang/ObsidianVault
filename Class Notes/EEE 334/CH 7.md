@@ -129,6 +129,10 @@ Thus the signal component of the drain voltage is
 $$v_{ds} = -i_dR_D = -g_mv_{gs}R_D$$
 which indicates that the voltage gain is given by
 $$A_v \equiv \frac{v_{ds}}{v_{gs}} = -g_mR_D$$
+#### Separating the DC Analysis and the Signal Analysis
+
+We see that under the small-signal approximation, signal quantities are superimposed on dc quantities. It follows that we can greatly simplify the analysis and design by separating dc or bias calculations from small-signal calculations. **That is, once we have stablished a stable dc operating point and have calculated all dc quantities, we can perform signal analysis ignoring dc quantities.**
+
 
 
 
