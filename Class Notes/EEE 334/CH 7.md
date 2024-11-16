@@ -135,7 +135,17 @@ We see that under the small-signal approximation, signal quantities are superimp
 
 #### Small-Signal Equivalent-Circuit Models
 
-From a signal point of view, the FET behaves as a voltage-controlled current source. It 
+From a signal point of view, the FET behaves as a voltage-controlled current source. It accepts a signal $v_{gs}$ between its gate and source and provides a current $g_mv_{gs}$ a the drain terminal. Both the input and output resistance have been assumed to be infinite. 
+
+Putting this together, we arrive at the circuit below, which represents the small-signal operation of the MOSFET and is thus a **small-signal model** or a **small-signal equivalent circuit**.
+
+![[Pasted image 20241115193849.png]]
+
+
+
+
+
+
 
 
 
