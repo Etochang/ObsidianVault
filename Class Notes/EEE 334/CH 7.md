@@ -141,6 +141,7 @@ Putting this together, we arrive at the circuit below, which represents the smal
 
 ![[Pasted image 20241115193849.png]]
 
+(a) neglects the dependence of $i_D$ on $v_{DS}$, while (b) includes the effect of channel-length modulation, modeled by $r_o = \frac{|V_A|}{I_D}$, where $V_A = 1/\lambda$. 
 
 
 
