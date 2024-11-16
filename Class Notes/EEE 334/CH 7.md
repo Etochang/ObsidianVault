@@ -71,6 +71,12 @@ The amplitude of $v_{gs}$ is small enough to restrict the excursion from Q to a 
 
 #### The MOSFET Case
 
+![[Pasted image 20241115174021.png]]
+
+If the input signal $v_{gs}$ is kept small, $v_{ds}$ will be nearly proportional to it. The constant of proportionality will be the slope of the almost-linear segment of the VTC around Q, which is also the **voltage gain of the amplifier**:
+$$A_v = \frac{dv_{DS}}{dv_{GS}} \Bigr\rvert_{v_{GS}=V_{GS}}$$
+$$A_v = -k_n(V_{GS}-V_t)R_D$$
+$$A_v=-k_nV_{OV}R_D$$
 
 
 
