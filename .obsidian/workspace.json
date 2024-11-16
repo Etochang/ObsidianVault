@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+                "file": "Class Notes/EEE 334/CH 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH4 - Network Layer Data Plane"
+              "title": "CH 7"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/CSE 423/Picamera.md"
+                "file": "Class Notes/EEE 334/CH 7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Picamera"
+              "title": "Outline of CH 7"
             }
           }
         ],
@@ -168,11 +169,11 @@
   },
   "active": "5fa52c4064660614",
   "lastOpenFiles": [
+    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Files/Pasted image 20241114194843.png",
     "Files/Pasted image 20241114191946.png",
     "Files/Pasted image 20241114184316.png",
     "Class Notes/EEE 334/CH 7.md",
-    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Files/Pasted image 20241113194411.png",
     "Files/Pasted image 20241113194306.png",
     "Files/Pasted image 20241113194257.png",
@@ -184,7 +185,6 @@
     "Class Notes/CSE 434/Textbook",
     "Class Notes/CSE 423/Zero Trust in Embedded Research.md",
     "Files/Pasted image 20241016192428.png",
-    "Files/Pasted image 20241016192346.png",
     "Class Notes/CSE 423/Zero Trust.md",
     "Class Notes/EEE 334/8_29_2024.md",
     "Class Notes/CSE 423",

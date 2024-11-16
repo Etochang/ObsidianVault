@@ -63,5 +63,8 @@ The amplitude of $v_{gs}$ is small enough to restrict the excursion from Q to a 
 >
 >If the input signal amplitude 
 
+
+
+
 ---
 # *References*
