@@ -146,9 +146,19 @@
               "icon": "lucide-list",
               "title": "Outline of CH 7"
             }
+          },
+          {
+            "id": "d78552e6f9e871ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",

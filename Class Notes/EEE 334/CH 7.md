@@ -61,7 +61,15 @@ The amplitude of $v_{gs}$ is small enough to restrict the excursion from Q to a 
 >[!warning] increasing the amplitude of the input signal
 >As the instantaneous operating point is no longer confined to the almost-linear segment of the VTC, $v_{ds}$ loses linearity. 
 >
->If the input signal amplitude 
+>If the input signal amplitude becomes sufficiently large, the instantaneous operating point may leave AB altogether. If this happens at the negative peaks of $v_{gs}$, the transistor will cut off the positive peaks of $v_{ds}$. If this happens at the positive peaks of $v_{gs}$, the transistor will enter the triode region and flatten the negative peaks of $v_{ds}$. 
+>
+>The maximum allowable amplitude of $v_{ds}$, referred to as the *allowable signal swing at the output*, is greatly affected by the location of the bias point Q.
+>
+>For a BJT, the same logic follows.
+
+
+
+
 
 
 
