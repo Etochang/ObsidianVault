@@ -77,10 +77,13 @@ If the input signal $v_{gs}$ is kept small, $v_{ds}$ will be nearly proportional
 $$A_v = \frac{dv_{DS}}{dv_{GS}} \Bigr\rvert_{v_{GS}=V_{GS}}$$
 $$A_v = -k_n(V_{GS}-V_t)R_D$$
 $$A_v=-k_nV_{OV}R_D$$
+$$A_v = -\frac{I_DR_D}{V_{OV}/2}$$
+$$A_v=-\frac{V_{DD}-V_{DS}}{V_{OV}/2}$$
+
 1. The gain is negative, which means the amplifier is inverting (180° phase shift between input and output)
 2. The gain is proportional to the load resistance $R_D$, the transistor transconductance parameter $k_n$, and the overdrive voltage $V_{OV}$
 
-
+The maximum gain magnitude $|A_{vmax}|$ is obtained by biasing the transistor at point B. 
 
 
 
