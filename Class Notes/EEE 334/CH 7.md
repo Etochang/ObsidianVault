@@ -159,8 +159,16 @@ $$g_m = \sqrt{2k_n'} \sqrt{W/L} \sqrt{I_D}$$
 
 In contrast, the transconductance of the BJT is proportional to the bias current and is independent of they physical size and geometry of the device. 
 $$g_m = \frac{I_D}{(V_{OV}/2)}$$
+## 7.3 Basic Configurations
 
+### The Three Basic Configurations
 
+![[Pasted image 20241122180747.png]]
+![[Pasted image 20241122180755.png]]
+![[Pasted image 20241122180801.png]]
+![[Pasted image 20241122180811.png]]
+![[Pasted image 20241122180819.png]]
+![[Pasted image 20241122180827.png]]
 
 
 
