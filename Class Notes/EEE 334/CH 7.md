@@ -172,7 +172,18 @@ $$g_m = \frac{I_D}{(V_{OV}/2)}$$
 
 ### Characterizing Amplifiers
 
+![[Pasted image 20241122181047.png]]
 
+$$R_{in} \equiv \frac{v_i}{i_i}$$
+$$v_i = \frac{R_{in}}{R_{in}+R_{sig}}v_{sig}$$
+**open-circuit voltage gain:**
+$$A_{vo} \equiv \frac{v_o}{v_i} \Bigr\rvert_{R_L = \infty}$$
+$$R_o = \frac{v_x}{i_x}$$
+**voltage gain of the amplifier proper:**
+$$A_v \equiv \frac{v_o}{v_i} = A_{vo}\frac{R_L}{R_L+R_o}$$
+**overall voltage gain:**
+$$G_v = \frac{v_o}{v_{sig}} = \frac{R_{in}}{R_{in}+R_{sig}}A_{vo}\frac{R_
+L}{R_L+R_o}$$
 
 
 
