@@ -184,7 +184,9 @@ $$A_v \equiv \frac{v_o}{v_i} = A_{vo}\frac{R_L}{R_L+R_o}$$
 **overall voltage gain:**
 $$G_v = \frac{v_o}{v_{sig}} = \frac{R_{in}}{R_{in}+R_{sig}}A_{vo}\frac{R_
 L}{R_L+R_o}$$
-
+Sometimes it is more convenient to represent the amplifier output with a current output. This is the **short-circuit transconductance** of the amplifier:
+$$G_m \equiv \frac{i_o}{v_i} \Bigr\rvert_{v_o=0}$$
+$$A_{vo} \equiv G_mR_o$$
 
 
 
