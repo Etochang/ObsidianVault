@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e19afa82fa0463e",
+        "id": "2f56f90234843719",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa52c4064660614",
+            "id": "455d7b5cf8320250",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,20 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/EEE 334/CH 7.md"
+                "file": "Class Notes/CSE 423/Picamera.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CH 7"
-            }
-          },
-          {
-            "id": "d78552e6f9e871ed",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Picamera"
             }
           }
         ],
@@ -177,17 +167,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fa52c4064660614",
+  "active": "455d7b5cf8320250",
   "lastOpenFiles": [
     "Files/Pasted image 20241115194516.png",
     "Files/Pasted image 20241115193849.png",
     "Files/Pasted image 20241115183037.png",
     "Files/Pasted image 20241115174021.png",
-    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Files/Pasted image 20241114194843.png",
     "Files/Pasted image 20241114191946.png",
     "Files/Pasted image 20241114184316.png",
+    "Files/Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith.pdf",
     "Class Notes/EEE 334/CH 7.md",
+    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
     "Files/Pasted image 20241113194411.png",
     "Files/Pasted image 20241113194306.png",
     "Files/Pasted image 20241113194257.png",
@@ -223,7 +214,6 @@
     "Class Notes/CSE 360/Module 11",
     "Class Notes/CSE 360/Module 10",
     "Class Notes/CSE 360/Module 9",
-    "Class Notes/CSE 360/Module 8",
-    "Class Notes/CSE 360/Module 7"
+    "Class Notes/CSE 360/Module 8"
   ]
 }
