@@ -170,6 +170,8 @@ $$g_m = \frac{I_D}{(V_{OV}/2)}$$
 ![[Pasted image 20241122180819.png]]
 ![[Pasted image 20241122180827.png]]
 
+### Characterizing Amplifiers
+
 
 
 
