@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "CH 7"
             }
+          },
+          {
+            "id": "4dcc9fad65bd87c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "455d7b5cf8320250",
+  "active": "4dcc9fad65bd87c9",
   "lastOpenFiles": [
     "Files/Pasted image 20241122181047.png",
     "Files/Pasted image 20241122180827.png",
