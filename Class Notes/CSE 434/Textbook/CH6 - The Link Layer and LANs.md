@@ -76,6 +76,52 @@ Ideally, a multiple access protocol for a broadcast channel of rate *R* should h
 
 ### Channel Partitioning Protocols
 
+FDM and TDM:
+
+![[Pasted image 20241203140953.png]]
+
+The above both have the problem that a node is limited to a bandwidth of R/N, even when it is the only node with packets to send.
+
+A third channel partitioning protocol is **code division multiple access (CDMA)**. CDMA assigns a different *code* to each node. Each node then uses its unique code to encode the data bits it sends. If the codes are chosen carefully, different nodes can transmit simultaneously and still have their respective receivers correctly receive the encoded data bits in spite of interfering transmissions by other nodes. 
+
+### Random Access Protocols
+
+A transmitting node always transmits at the full rate of the channel. When there is a collision, each node involved in the collision repeatedly retransmits the frame after waiting a independently random delay until it gets through without a collision. 
+
+Examples: ALOHA, CSMA
+
+### Taking-Turns Protocols
+
+- **polling protocol**: requires one of the nodes to be designated as a master node. The master node **polls** each of the nodes in a round-robin fashion to transmit up to a maximum number of frames.
+	- eliminates the collisions and empty slots that plague random access protocols
+	- introduces a polling delay
+	- if the master node fails, the entire channel becomes inoperative
+	- Example: Bluetooth
+- **token-passing protocol:** no master node; a small, special-purpose frame known as a **token** is exchanged among the nodes in some fixed order. When a node receives a token, it holds onto the token only if it has some frames to transmit; otherwise, it immediately forwards the token to the next node.
+	- decentralized and highly efficient
+	- failure of one node can crash the entire channel
+	- if token is not released, recovery procedure must be invoked to get the token back in circulation
+	- Example: FDDI, IEEE 802.5 token ring protocol
+
+## 6.4 Switched Local Area Networks
+
+![[Pasted image 20241203142051.png]]
+
+- everything operates at the link layer
+- routing algorithms like OSPF aren't used
+- link-layer addresses instead of IP addresses
+
+### Link-Layer Addressing and ARP
+
+Hosts and routers do not have link-layer addresses—their **adapters** (NICs) have link-layer addresses. A host or router w/ multiple network interfaces will thus have multiple link-layer addresses associated with it, just as it would also have multiple IP addresses associated with it. 
+
+Link-layer switches **do not** have link-layer addresses associated with their interfaces that connect to hosts and routers. This is because the job of the link-layer switch is to carry datagrams between hosts and routers; a switch does this job **transparently**, without the host or router having to explicitly address the frame to the switch.
+
+![[Pasted image 20241203142502.png]]
+
+A link-layer address is variously called a **LAN address**, a **physical address**, or a **MAC address**. 
+
+No two adapters have the same address.
 
 
 
