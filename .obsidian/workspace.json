@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/CSE 423/Picamera.md"
+                "file": "Class Notes/CSE 434/Textbook/CH6 - The Link Layer and LANs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Picamera"
+              "title": "Outline of CH6 - The Link Layer and LANs"
             }
           }
         ],
@@ -164,7 +164,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
   "active": "455d7b5cf8320250",
