@@ -57,6 +57,25 @@ Broadcast implies that when any one node transmits a frame, the channel broadcas
 
 The **multiple access problem**: how to coordinate the access of multiple sending and receiving nodes to a shared broadcast channel.
 
+The **multiple access protocol**: how nodes regulate their transmission into the shared broadcast channel.
+
+When nodes receive multiple frames at the same time, the transmitted frames **collide** at all of the receivers. Typically, this means that none of the receivers can understand any of the colliding frames.
+
+Multiple access protocols can generally be classified into three categories:
+
+- Channel Partitioning
+- Random Access
+- Taking-Turns
+
+Ideally, a multiple access protocol for a broadcast channel of rate *R* should have the following characteristics:
+
+1. When only one node has data to send, that node has a throughput of R bps.
+2. When M nodes have data to send, each of these nodes has a throughput of R/M bps. This need not necessarily imply that each of the M nodes always has an instantaneous rate of R/M, but rather that each node should have an average transmission rate of R/M over some suitably defined interval of time.
+3. The protocol is decentralized; that is, there is no master node that represents a single point of failure for the network.
+4. The protocol is simple, so that it is inexpensive to implement.
+
+
+
 
 
 
