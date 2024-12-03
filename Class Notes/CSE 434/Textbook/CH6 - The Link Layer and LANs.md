@@ -74,6 +74,8 @@ Ideally, a multiple access protocol for a broadcast channel of rate *R* should h
 3. The protocol is decentralized; that is, there is no master node that represents a single point of failure for the network.
 4. The protocol is simple, so that it is inexpensive to implement.
 
+### Channel Partitioning Protocols
+
 
 
 
