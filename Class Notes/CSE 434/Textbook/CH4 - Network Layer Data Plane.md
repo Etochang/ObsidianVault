@@ -43,7 +43,7 @@ Tags:
 
 - When there are multiple matches, the router uses the **longest prefix matching rule**.
 
-Once a packet's output port has been determined, the packet can be sent into the switching fabric. In some designs, a packet may be temporarily blocked from entering the fabric if packets from other input ports are currently using the fabric.
+Once a packet's output port has been determined via the lookup, the packet can be sent into the switching fabric. In some designs, a packet may be temporarily blocked from entering the fabric if packets from other input ports are currently using the fabric.
 
 ---
 # *References*
