@@ -121,7 +121,9 @@ Link-layer switches **do not** have link-layer addresses associated with their i
 
 A link-layer address is variously called a **LAN address**, a **physical address**, or a **MAC address**. 
 
-No two adapters have the same address.
+No two adapters have the same address because IEEE manages the MAC address space.
+
+An adapter's MAC address has a flat structure and doesn't change no matter where the adapter goes. In contrast, IP addresses have a hierarchical structure and need to be changed when the host moves to a different network.
 
 
 
