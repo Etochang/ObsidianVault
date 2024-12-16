@@ -15,6 +15,22 @@ Tags: [[DevOps]] [[CI/CD]]
 	- a product
 	- 
 - By practitioners, for practitioners
+
+## Dev and Ops Teams - Their Targets
+
+Traditional:
+- Dev-Team
+	- Deliver features quickly
+	- Goal is speed
+- Ops-Team
+	- Maintain stability
+- in opposition to each other
+
+DevOps:
+- One Team
+	- Deliver features quickly
+	- Maintain stability
+	- Goal is speed
 - 
 
 
