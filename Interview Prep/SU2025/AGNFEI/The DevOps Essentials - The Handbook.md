@@ -40,7 +40,11 @@ DevOps:
 
 - DevOps spawned from Agile
 	- Small frequent cycles of development vs. Waterfall's long planning phases
-- 
+
+## What Happened in Silos
+
+Traditional:
+- Silos
 
 
 
