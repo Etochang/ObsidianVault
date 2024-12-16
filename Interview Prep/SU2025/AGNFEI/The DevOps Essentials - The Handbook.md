@@ -36,7 +36,11 @@ DevOps:
 		- Minimizing Production failures
 		- Immediate Recovery from failures
 
+## History
 
+- DevOps spawned from Agile
+	- Small frequent cycles of development vs. Waterfall's long planning phases
+- 
 
 
 
