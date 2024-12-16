@@ -31,7 +31,12 @@ DevOps:
 	- Deliver features quickly
 	- Maintain stability
 	- Goal is speed
-- 
+	- Shared Goals = Shared Accountability
+		- Time to Market: time to develop and deploy to customers
+		- Minimizing Production failures
+		- Immediate Recovery from failures
+
+
 
 
 
