@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb7e940cf0ec0870",
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/EEE 334/CH 7.md"
+                "file": "Interview Prep/SU2025/AGNFEI/The DevOps Essentials - The Handbook.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CH 7"
+              "title": "Outline of The DevOps Essentials - The Handbook"
             }
           },
           {
