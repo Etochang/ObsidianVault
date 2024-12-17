@@ -95,7 +95,7 @@ Traditional:
 - Frequently deploying small code changes to production
 
 ## Continuous Delivery
-- 
+- Code is always in a state to be deployed, becomes business decision rather than technical
 
 ---
 # *References*
