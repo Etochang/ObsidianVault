@@ -59,6 +59,9 @@ Traditional:
 - Test while new features are being developed
 - Automated Monitoring detects issues, rollback deployments
 
+## Build Automation
+
+- Automation of preparing code for deployment to a live environment
 
 
 
