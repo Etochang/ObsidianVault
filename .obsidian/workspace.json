@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e19afa82fa0463e",
+        "id": "2f56f90234843719",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa52c4064660614",
+            "id": "455d7b5cf8320250",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,20 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/SU2025/AGNFEI/The DevOps Essentials - The Handbook.md"
+                "file": "Class Notes/CSE 434/Textbook/CH6 - The Link Layer and LANs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The DevOps Essentials - The Handbook"
-            }
-          },
-          {
-            "id": "d78552e6f9e871ed",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of CH6 - The Link Layer and LANs"
             }
           }
         ],
@@ -174,29 +164,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "5fa52c4064660614",
+  "active": "455d7b5cf8320250",
   "lastOpenFiles": [
+    "Class Notes/CSE 434/Textbook/CH6 - The Link Layer and LANs.md",
     "Interview Prep/SU2025/AGNFEI/The DevOps Essentials - The Handbook.md",
-    "Class Notes/EEE 334/CH 7.md",
     "Interview Prep/SU2025/AGNFEI",
     "Interview Prep/SU2025",
-    "Interview Prep/AGNFEI-SU2025",
     "Interview Prep",
     "Files/Pasted image 20241203142502.png",
     "Files/Pasted image 20241203142051.png",
     "Files/Pasted image 20241203140953.png",
     "Files/Pasted image 20241203135026.png",
+    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+    "Class Notes/EEE 334/CH 7.md",
     "Files/Pasted image 20241122181047.png",
     "Files/Pasted image 20241122180827.png",
     "Files/Pasted image 20241122180819.png",
     "Files/Pasted image 20241122180811.png",
     "Files/Pasted image 20241122180801.png",
     "Files/Pasted image 20241122180755.png",
-    "Class Notes/CSE 434/Textbook/CH6 - The Link Layer and LANs.md",
-    "Class Notes/CSE 434/Textbook/CH4 - Network Layer Data Plane.md",
+    "Files/Microelectronic Circuits - Adel S. Sedra, Kenneth C. Smith.pdf",
     "Class Notes/CSE 434/Textbook/CH3 - Transport Layer.md",
     "Class Notes/CSE 423/Picamera.md",
     "Class Notes/CSE 434/Textbook",

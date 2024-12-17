@@ -62,8 +62,40 @@ Traditional:
 ## Build Automation
 
 - Automation of preparing code for deployment to a live environment
+- Deployment → Build Automation → Production
+	- Compilation
+	- Transformation
+	- Unit Tests
+	- Scanning for Problems
+	- Reporting Problems
+	- Eliminating Defects
+- Jenkins, Maven, Gradle, Travis CI, etc.
+- Independent of IDE
+- Machine agnostic
+- Portable
+- Consistent
+- Efficient
+## Continuous Integration
 
+- Faster at finding bugs
+- All changes are integrated
+- Happier developers
 
+- Frequently merge code changes
+- Frequently release
+- Encourages good coding practices
+	- more modular, clear code
+
+## Continuous Deployment
+
+- Code → Source Control Manager → Build
+- Build → QA → Stage → Production
+- Every change that is passing through all the stages of production is released to customers.
+- Excellent way to accelerate the feedback loop with customers to take pressure off the team
+- Frequently deploying small code changes to production
+
+## Continuous Delivery
+- 
 
 ---
 # *References*
