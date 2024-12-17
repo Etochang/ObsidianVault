@@ -103,6 +103,10 @@ Traditional:
 	- servers, instances, environments, containers, clusters
 - With IaC, you can build complex infrastructures repeatedly
 - Work with automation tools, configuration files, etc.
+- Self Documenting
+- Scalability of code
+- Provision new resources / modify existing resources using code
+- Replicate environments to Test, QA, and Prod
 - 
 
 
