@@ -128,6 +128,14 @@ Traditional:
 - real time monitoring and notifications
 - assists in troubleshooting
 - collects lots of data during outage
+- automated response
+- visibility into production systems
+
+## Microservices
+
+- Software architecture: small but loosely coupled services
+	- as opposed to monolithic designs with one large executable
+- Interact using stable, standardized APIs
 - 
 
 ---
