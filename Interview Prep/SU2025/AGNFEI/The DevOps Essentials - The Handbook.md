@@ -197,5 +197,12 @@ Traditional:
 		- able to utilize pool of resources
 	- ZooKeeper
 
+## Relationships Between DevOps and the Cloud
+
+- DevOps: culture of collaboration between dev and ops
+- Cloud: utilizing remote services rather than locally hosted solutions
+- DevOps can happen inside or outside the cloud
+- 
+
 ---
 # *References*
