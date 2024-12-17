@@ -120,7 +120,15 @@ Traditional:
 - managing configuration of all servers as a state encapsulated in code on a particular server
 - identify the state of infrastructure
 
+## Monitoring in DevOps
 
+- Supports frequent deployments and quick response to problems
+- Collect system metrics
+- represent data in a presentable manner
+- real time monitoring and notifications
+- assists in troubleshooting
+- collects lots of data during outage
+- 
 
 ---
 # *References*
