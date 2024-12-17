@@ -136,6 +136,23 @@ Traditional:
 - Software architecture: small but loosely coupled services
 	- as opposed to monolithic designs with one large executable
 - Interact using stable, standardized APIs
+- Modular
+	- individual pieces can become tightly coupled over time
+- Flexible
+	- separate pieces
+- doesn't need to be build using the same programming language and technology
+- optimized stability
+	- scale separate pieces rather than one giant executable
+- not always the best, for simple applications monolithic can be better
+- for complex applications it is good
+
+## Tools for Build Automation and CI
+
+- Build automation: automated process of building code for deployment, depends on programming languages and frameworks
+	- Maven, Gradle
+- Continuous integration: continuously merging code into a single branch
+- Jenkins: Java Servlet Web App
+- Travis CI: GitHub Integration
 - 
 
 ---
