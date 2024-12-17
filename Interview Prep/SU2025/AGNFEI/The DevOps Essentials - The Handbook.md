@@ -202,7 +202,12 @@ Traditional:
 - DevOps: culture of collaboration between dev and ops
 - Cloud: utilizing remote services rather than locally hosted solutions
 - DevOps can happen inside or outside the cloud
-- 
+- IaaS: someone else provides bare operating system
+	- AWS EC2 Instances, Microsoft Azure, Google compute engine
+- PaaS: standardized OS: you only manage application and data
+- SaaS: everything is managed by service provider
+- FaaS: serverless, everything is abstracted: deploying small single-purpose functions or code
+	- AWS Lambda, Azure Functions, Google Cloud Functions
 
 ---
 # *References*
