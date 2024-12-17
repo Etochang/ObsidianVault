@@ -153,7 +153,49 @@ Traditional:
 - Continuous integration: continuously merging code into a single branch
 - Jenkins: Java Servlet Web App
 - Travis CI: GitHub Integration
-- 
+
+## Tools for Configuration Management
+
+- automated management and changing of infrastructure
+- support IaC
+- Ansible: declarative configuration, describe state rather than steps to get state. Uses YAML, doesn't require centralized server
+	- Doesn't require agents (pieces of software to be installed on each machine)
+- Puppet: declarative configuration, manage state through user interface
+	- custom modules using puppet domain specific language
+	- Uses control server agent architecture
+- Chef: procedural configuration, scripts to get machine into state
+	- Agent Server Model, Chef DSL
+- Salt: Declarative, agentless, event-driven automation, uses YAML
+
+## Tools for Virtualization and Containerization
+
+- Virtualization - managing resources by creating virtual layer on top of physical hardware
+	- hypervisor: program that runs on bare physical metal, allows management of virtual machines: VMware, Hyper-V, ESXI, etc.
+- Containerization - next step beyond virtualization, lightweight, contain bare minimum required to run application. 
+	- Docker
+	- portable
+- Orchestration - uses containers
+
+## Tools for Monitoring
+
+- Infrastructure Monitoring: data related to health of infrastructure (CPU usage, memory usage, networking statistics)
+	- Sensu: client-server architeture, modern and sophisticated, scalable
+	- New Relic: SaaS, supports wide variety of metrics
+- Application Performance Monitoring: data related to performance and stability of apps on infrastructure (response time)
+	- Appdynamics, data points about applications and centralized dashboard, code-level diagnostics
+- Aggregation and analytics: what to do with the data after collecting it
+	- Elastic Stack: quickly aggregate, detect, and diagnose problems
+
+## Tools for Orchestration
+
+- Orchestration: automation that supports processes and workflows - provisioning of resources
+	- autoscale applications based on usage
+	- create self healing systems
+	- Docker Swarm
+	- Kubernetes: gold standard
+		- able to manage containerized apps
+		- able to utilize pool of resources
+	- ZooKeeper
 
 ---
 # *References*
