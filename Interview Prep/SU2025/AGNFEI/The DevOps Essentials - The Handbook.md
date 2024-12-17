@@ -97,5 +97,15 @@ Traditional:
 ## Continuous Delivery
 - Code is always in a state to be deployed, becomes business decision rather than technical
 
+## Infrastructure as Code
+
+- IaC - managing and provisioning infrastructure using code
+	- servers, instances, environments, containers, clusters
+- With IaC, you can build complex infrastructures repeatedly
+- Work with automation tools, configuration files, etc.
+- 
+
+
+
 ---
 # *References*
