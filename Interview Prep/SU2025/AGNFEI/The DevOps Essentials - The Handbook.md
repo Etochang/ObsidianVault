@@ -45,6 +45,19 @@ DevOps:
 
 Traditional:
 - Silos
+	- Separated teams that have walls inbetween them
+	- Dev, QA, Ops
+	- Dev Code → QA
+		- responsibility gone until code returns
+	- QA → Ops
+		- responsibility gone until code goes back to Dev
+	- No cross-team visibility: "black box"
+	- lengthy deployment
+
+ DevOps:
+- Dev Code → Automated Builds, Integration, Testing, Deployment
+- Test while new features are being developed
+- Automated Monitoring detects issues, rollback deployments
 
 
 
