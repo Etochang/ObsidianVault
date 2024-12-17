@@ -107,7 +107,18 @@ Traditional:
 - Scalability of code
 - Provision new resources / modify existing resources using code
 - Replicate environments to Test, QA, and Prod
-- 
+
+## Configuration Management
+
+- Doing infrastructure changes in a maintainable way
+- Minimizing configuration drift
+	- accumulation of all the small changes that are made to a system over a period of time
+	- Baseline of infrastructure components
+- Maintaining and changing the state of various pieces of infrastructure in a consistent way
+- Controlling the configuration/deployment
+	- closely related with IaC
+- managing configuration of all servers as a state encapsulated in code on a particular server
+- identify the state of infrastructure
 
 
 
