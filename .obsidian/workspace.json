@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "The DevOps Essentials - The Handbook"
             }
+          },
+          {
+            "id": "e0e7c4125db5a880",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fa52c4064660614",
+  "active": "e0e7c4125db5a880",
   "lastOpenFiles": [
     "Interview Prep/SU2025/AGNFEI/The DevOps Essentials - The Handbook.md",
     "Class Notes/EEE 334/CH 7.md",
